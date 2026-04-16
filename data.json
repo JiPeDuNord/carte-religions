@@ -1,0 +1,3559 @@
+{
+    "religions": [
+        {
+            "id": 1,
+            "name": "Sumer",
+            "startYear": -4500,
+            "endYear": -500,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations mésopotamiennes",
+            "sousCategorie": "-",
+            "color": "#95A5A6",
+            "judgment": "none",
+            "afterlife": "Kur (monde souterrain neutre)",
+            "region": "Mésopotamie (Irak)",
+            "status": "disparue",
+            "description": "Civilisation pionnière en écriture (cunéiforme), mathématiques et organisation urbaine. Croyances en des dieux comme Enki et Inanna.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 1,
+                    "religion_id": 1,
+                    "year": -4500,
+                    "type": "polygon",
+                    "coords": "[[32.5, 45.0], [31.0, 46.0], [33.0, 46.0], [33.5, 45.0]]",
+                    "population": "~500 000",
+                    "description": "Civilisation sumérienne en Mésopotamie. Invention de l'écriture cunéiforme."
+                },
+                {
+                    "id": 2,
+                    "religion_id": 1,
+                    "year": -3500,
+                    "type": "polygon",
+                    "coords": "[[32.5, 45.0], [31.0, 46.0], [33.0, 46.0], [33.5, 45.0]]",
+                    "population": "~1 million",
+                    "description": "Développement des premières villes comme Ur et Uruk."
+                },
+                {
+                    "id": 3,
+                    "religion_id": 1,
+                    "year": -2500,
+                    "type": "polygon",
+                    "coords": "[[32.5, 45.0], [31.0, 46.0], [33.0, 46.0], [33.5, 45.0]]",
+                    "population": "~2 millions",
+                    "description": "Apogée de la civilisation sumérienne. Invention de la roue."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Égypte antique",
+            "startYear": -3100,
+            "endYear": 30,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations égyptiennes",
+            "sousCategorie": "-",
+            "color": "#95A5A6",
+            "judgment": "central",
+            "afterlife": "Champ des Roseaux ou Ammit",
+            "region": "Afrique (Égypte)",
+            "status": "disparue",
+            "description": "Civilisation connue pour ses pyramides, ses pharaons et ses croyances en une vie après la mort complexe. Atoum est parfois associé à la création, mais pas de dieu unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 4,
+                    "religion_id": 2,
+                    "year": -3100,
+                    "type": "polygon",
+                    "coords": "[[24.0, 30.0], [24.0, 32.0], [27.0, 32.0], [27.0, 30.0]]",
+                    "population": "~1 million",
+                    "description": "Unification de la Haute et Basse-Égypte sous Narmer."
+                },
+                {
+                    "id": 5,
+                    "religion_id": 2,
+                    "year": -2000,
+                    "type": "polygon",
+                    "coords": "[[24.0, 28.0], [24.0, 33.0], [29.0, 33.0], [29.0, 28.0]]",
+                    "population": "~2 millions",
+                    "description": "Période du Moyen Empire. Construction de pyramides comme celle de Mentouhotep II."
+                },
+                {
+                    "id": 6,
+                    "religion_id": 2,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[24.0, 28.0], [24.0, 33.0], [29.0, 33.0], [29.0, 28.0]]",
+                    "population": "~3-4 millions",
+                    "description": "Nouvel Empire égyptien sous Thoutmosis III et Ramsès II."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Grèce antique",
+            "startYear": -2000,
+            "endYear": 500,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Grèce",
+            "color": "#95A5A6",
+            "judgment": "none",
+            "afterlife": "Hadès (Champs Élysées, Tartare)",
+            "region": "Grèce",
+            "status": "disparue",
+            "description": "Berceau de la démocratie, de la philosophie et des mythes fondateurs de la culture occidentale. Polythéisme sans dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 7,
+                    "religion_id": 3,
+                    "year": -2000,
+                    "type": "polygon",
+                    "coords": "[[37.0, 20.0], [37.0, 24.0], [41.0, 24.0], [41.0, 20.0]]",
+                    "population": "~500 000",
+                    "description": "Civilisation minoenne en Crète. Début de l'âge du bronze."
+                },
+                {
+                    "id": 8,
+                    "religion_id": 3,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[35.0, 18.0], [35.0, 26.0], [42.0, 26.0], [42.0, 18.0]]",
+                    "population": "~1 million",
+                    "description": "Période mycénienne. Guerres contre Troie (Guerre de Troie)."
+                },
+                {
+                    "id": 9,
+                    "religion_id": 3,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[35.0, 18.0], [35.0, 26.0], [42.0, 26.0], [42.0, 18.0]]",
+                    "population": "~2-3 millions",
+                    "description": "Âge d'or de la Grèce antique. Développement de la démocratie à Athènes."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Rome antique",
+            "startYear": -753,
+            "endYear": 476,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Rome",
+            "color": "#95A5A6",
+            "judgment": "none",
+            "afterlife": "Hadès",
+            "region": "Italie",
+            "status": "disparue",
+            "description": "Empire puissant qui a étendu son influence sur une grande partie de l'Europe et de l'Afrique du Nord. Adoptait les dieux grecs (Jupiter, Mars) sans dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 10,
+                    "religion_id": 4,
+                    "year": -753,
+                    "type": "point",
+                    "coords": "[41.9, 12.5]",
+                    "population": "~100 000",
+                    "description": "Fondation de Rome par Romulus et Rémus."
+                },
+                {
+                    "id": 11,
+                    "religion_id": 4,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[40.0, 10.0], [40.0, 15.0], [42.0, 15.0], [42.0, 10.0]]",
+                    "population": "~1 million",
+                    "description": "Royaume de Rome sous les rois étrusques."
+                },
+                {
+                    "id": 12,
+                    "religion_id": 4,
+                    "year": 0,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -5.0], [35.0, 20.0], [48.0, 20.0], [48.0, -5.0]], [[30.0, -5.0], [30.0, 5.0], [35.0, 5.0], [35.0, -5.0]]]",
+                    "population": "~50 millions",
+                    "description": "Empire romain à son apogée sous Auguste. Pax Romana."
+                },
+                {
+                    "id": 13,
+                    "religion_id": 4,
+                    "year": 200,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 25.0], [50.0, 25.0], [50.0, -10.0]], [[30.0, -10.0], [30.0, 10.0], [35.0, 10.0], [35.0, -10.0]]]",
+                    "population": "~60 millions",
+                    "description": "Extension maximale de l'Empire romain sous Trajan."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Religion celtique",
+            "startYear": -1500,
+            "endYear": 500,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Celtes",
+            "color": "#4CAF50",
+            "judgment": "none",
+            "afterlife": "Autre Monde (Tir na nÓg, Annwn)",
+            "region": "Europe (Irlande, Gaules, Bretagne)",
+            "status": "disparue",
+            "description": "Religion des peuples celtes. Polythéisme avec des dieux comme Dagda, Lugh, et Morrigan. Pas de dieu créateur unique, mais des mythes de création (ex. : le livre de Leinster).",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 14,
+                    "religion_id": 5,
+                    "year": -1500,
+                    "type": "polygon",
+                    "coords": "[[52.0, -10.0], [52.0, 2.0], [48.0, 2.0], [48.0, -10.0]]",
+                    "population": "~500 000",
+                    "description": "Période pré-celtique en Europe de l'Ouest (âge du bronze). Croyances proto-celtiques et cultes des forces naturelles."
+                },
+                {
+                    "id": 15,
+                    "religion_id": 5,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[55.0, -10.0], [55.0, 10.0], [45.0, 10.0], [45.0, -10.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion celtique en Europe (Hallstatt). Développement des cultes druidiques et des sanctuaires (ex. : Glastonbury)."
+                },
+                {
+                    "id": 16,
+                    "religion_id": 5,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[58.0, -10.0], [58.0, 20.0], [40.0, 20.0], [40.0, -10.0]]",
+                    "population": "~2 millions",
+                    "description": "Âge d'or celtique (La Tène). Présence en Irlande, Grande-Bretagne, Gaules, Ibérie et Galatie. Culte des dieux comme Lug, Dagda et Epona."
+                },
+                {
+                    "id": 17,
+                    "religion_id": 5,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[59.0, -15.0], [59.0, 30.0], [35.0, 30.0], [35.0, -15.0]]",
+                    "population": "~3 millions",
+                    "description": "Période de romanisation partielle. Persistance des cultes celtiques en Irlande, Écosse, Bretagne et Galatie."
+                },
+                {
+                    "id": 18,
+                    "religion_id": 5,
+                    "year": 500,
+                    "type": "point",
+                    "coords": "[53.3, -6.3]",
+                    "population": "~200 000",
+                    "description": "Christianisation progressive. Les traditions celtiques survivent en Irlande (ex. : fêtes comme Samhain, Imbolc)."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Religion germanique",
+            "startYear": -1000,
+            "endYear": 1000,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Germains",
+            "color": "#5D4037",
+            "judgment": "none",
+            "afterlife": "Valhalla, Helheim",
+            "region": "Europe du Nord (Scandinavie, Allemagne)",
+            "status": "disparue",
+            "description": "Religion des peuples germaniques. Polythéisme avec des dieux comme Odin, Thor, et Freyja. Pas de dieu créateur unique, mais des mythes cosmogoniques (ex. : Ymir).",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 19,
+                    "religion_id": 6,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[55.0, 5.0], [55.0, 20.0], [50.0, 20.0], [50.0, 5.0]]",
+                    "population": "~300 000",
+                    "description": "Période proto-germanique en Scandinavie et nord de l'Allemagne. Culte des esprits de la nature et des ancêtres."
+                },
+                {
+                    "id": 20,
+                    "religion_id": 6,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[60.0, 5.0], [60.0, 25.0], [50.0, 25.0], [50.0, 5.0]]",
+                    "population": "~500 000",
+                    "description": "Âge du fer germanique. Développement des cultes à Odin (Wodan), Donar (Thor) et Tiwaz. Sites sacrés comme Uppsala."
+                },
+                {
+                    "id": 21,
+                    "religion_id": 6,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[55.0, -5.0], [55.0, 30.0], [45.0, 30.0], [45.0, -5.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion des peuples germaniques en Europe centrale. Syncrétisme avec les cultes romains (ex. : Interpretation Germanica)."
+                },
+                {
+                    "id": 22,
+                    "religion_id": 6,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[55.0, -10.0], [55.0, 20.0], [45.0, 20.0], [45.0, -10.0]]",
+                    "population": "~1,5 million",
+                    "description": "Période des grandes migrations. Les cultes germaniques se maintiennent en Scandinavie et en Germanie."
+                },
+                {
+                    "id": 23,
+                    "religion_id": 6,
+                    "year": 1000,
+                    "type": "point",
+                    "coords": "[60.0, 10.0]",
+                    "population": "~500 000",
+                    "description": "Christianisation forcée. Persistance de croyances païennes en Scandinavie et Islande (ex. : culte de Frey)."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Religion nordique (Vikings)",
+            "startYear": -800,
+            "endYear": 1000,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Vikings",
+            "color": "#2196F3",
+            "judgment": "none",
+            "afterlife": "Valhalla, Helheim",
+            "region": "Scandinavie (Norvège, Suède, Danemark)",
+            "status": "disparue",
+            "description": "Religion des Vikings. Polythéisme avec des dieux comme Odin (père des dieux), Thor (tonnerre), et Loki. Pas de dieu créateur unique, mais des récits de création (ex. : Ginnungagap).",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 24,
+                    "religion_id": 7,
+                    "year": -800,
+                    "type": "polygon",
+                    "coords": "[[65.0, 5.0], [65.0, 30.0], [55.0, 30.0], [55.0, 5.0]]",
+                    "population": "~200 000",
+                    "description": "Âge des Vikings (début). Culte des dieux nordiques (Odin, Thor, Freyja) en Scandinavie. Sites sacrés comme Gamla Uppsala."
+                },
+                {
+                    "id": 25,
+                    "religion_id": 7,
+                    "year": 800,
+                    "type": "multi-polygon",
+                    "coords": "[[[65.0, -20.0], [65.0, 30.0], [50.0, 30.0], [50.0, -20.0]], [[55.0, -50.0], [55.0, 10.0], [70.0, 10.0], [70.0, -50.0]]]",
+                    "population": "~2 millions",
+                    "description": "Expansion viking en Europe, Islande, Groenland et Vinland. Diffusion des cultes nordiques (ex. : temple d'Uppsala, pierres runiques)."
+                },
+                {
+                    "id": 26,
+                    "religion_id": 7,
+                    "year": 900,
+                    "type": "polygon",
+                    "coords": "[[60.0, -30.0], [60.0, 40.0], [30.0, 40.0], [30.0, -30.0]]",
+                    "population": "~1 million",
+                    "description": "Apogée de l'influence viking. Colonisation de l'Islande, des Orcades et de la Russie kiévienne. Culte de Thor et Odin."
+                },
+                {
+                    "id": 27,
+                    "religion_id": 7,
+                    "year": 1000,
+                    "type": "point",
+                    "coords": "[64.1, -21.9]",
+                    "population": "~50 000",
+                    "description": "Christianisation de la Scandinavie. Persistance des croyances païennes en Islande (ex. : Landnámabók)."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Religion slave",
+            "startYear": -500,
+            "endYear": 1000,
+            "superCategorie": "Religions anciennes",
+            "categorie": "Civilisations européennes",
+            "sousCategorie": "Slaves",
+            "color": "#795548",
+            "judgment": "none",
+            "afterlife": "Prav, Nav",
+            "region": "Europe de l'Est (Russie, Pologne)",
+            "status": "disparue",
+            "description": "Religion des Slaves. Polythéisme avec des dieux comme Perun (dieu du tonnerre) et Veles (dieu de la terre). Pas de dieu créateur unique, mais des mythes de création (ex. : Rodnovery).",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 28,
+                    "religion_id": 8,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[55.0, 20.0], [55.0, 40.0], [45.0, 40.0], [45.0, 20.0]]",
+                    "population": "~300 000",
+                    "description": "Période proto-slave en Europe de l'Est. Culte des esprits de la nature et des ancêtres (ex. : Rod, Veles)."
+                },
+                {
+                    "id": 29,
+                    "religion_id": 8,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[60.0, 20.0], [60.0, 45.0], [40.0, 45.0], [40.0, 20.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion des Slaves en Europe de l'Est. Développement des cultes à Perun (dieu du tonnerre) et Mokosh (déesse de la terre)."
+                },
+                {
+                    "id": 30,
+                    "religion_id": 8,
+                    "year": 900,
+                    "type": "polygon",
+                    "coords": "[[55.0, 15.0], [55.0, 50.0], [30.0, 50.0], [30.0, 15.0]]",
+                    "population": "~2 millions",
+                    "description": "Apogée des croyances slaves. Construction de sanctuaires (ex. : Arkona, Zbrucz). Culte des dieux comme Svarog et Dazhbog."
+                },
+                {
+                    "id": 31,
+                    "religion_id": 8,
+                    "year": 1000,
+                    "type": "point",
+                    "coords": "[50.0, 30.0]",
+                    "population": "~500 000",
+                    "description": "Christianisation des Slaves. Persistance de croyances païennes en Russie (ex. : dualisme bien/mal, cultes agraires)."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hindouisme",
+            "startYear": -1500,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions indiennes",
+            "sousCategorie": "-",
+            "color": "#F39C12",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation (samsara) ou moksha",
+            "region": "Inde",
+            "status": "pratiquée",
+            "description": "Religion et philosophie originaires de l'Inde. Basée sur les Vedas, les Upanishads et la Bhagavad Gita. Polythéisme avec Brahman comme réalité ultime, mais pas de dieu créateur personnel.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 32,
+                    "religion_id": 9,
+                    "year": -1500,
+                    "type": "polygon",
+                    "coords": "[[20.0, 75.0], [20.0, 80.0], [25.0, 80.0], [25.0, 75.0]]",
+                    "population": "~1 million",
+                    "description": "Civilisation védique dans le nord de l'Inde. Composition des Vedas."
+                },
+                {
+                    "id": 33,
+                    "religion_id": 9,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[20.0, 75.0], [20.0, 80.0], [25.0, 80.0], [25.0, 75.0]]",
+                    "population": "~50 millions",
+                    "description": "Période des royaumes mahajanapadas. Émergence du bouddhisme et du jaïnisme."
+                },
+                {
+                    "id": 34,
+                    "religion_id": 9,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[18.0, 70.0], [18.0, 85.0], [28.0, 85.0], [28.0, 70.0]]",
+                    "population": "~70 millions",
+                    "description": "Période des empires Maurya et Gupta. Âge d'or de la culture hindoue."
+                },
+                {
+                    "id": 35,
+                    "religion_id": 9,
+                    "year": 1000,
+                    "type": "polygon",
+                    "coords": "[[15.0, 65.0], [15.0, 90.0], [30.0, 90.0], [30.0, 65.0]]",
+                    "population": "~100 millions",
+                    "description": "Expansion de l'hindouisme en Asie du Sud."
+                },
+                {
+                    "id": 36,
+                    "religion_id": 9,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[10.0, 60.0], [10.0, 95.0], [35.0, 95.0], [35.0, 60.0]]",
+                    "population": "~1,2 milliard",
+                    "description": "L'hindouisme est l'une des religions les plus pratiquées en Inde et dans le monde."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Zoroastrisme",
+            "startYear": -1500,
+            "endYear": 1000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions perses",
+            "sousCategorie": "-",
+            "color": "#3498DB",
+            "judgment": "central",
+            "afterlife": "Paradis ou Enfer",
+            "region": "Perse (Iran)",
+            "status": "pratiquée",
+            "description": "Une des premières religions monothéistes, fondée par Zarathoustra. Croit en un dieu créateur unique (Ahura Mazda), opposant du mal (Angra Mainyu).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 37,
+                    "religion_id": 10,
+                    "year": -1500,
+                    "type": "polygon",
+                    "coords": "[[28.0, 50.0], [28.0, 60.0], [35.0, 60.0], [35.0, 50.0]]",
+                    "population": "~1 million",
+                    "description": "Fondation du zoroastrisme en Perse par Zarathoustra."
+                },
+                {
+                    "id": 38,
+                    "religion_id": 10,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[28.0, 50.0], [28.0, 60.0], [35.0, 60.0], [35.0, 50.0]]",
+                    "population": "~5 millions",
+                    "description": "Expansion sous l'Empire achéménide."
+                },
+                {
+                    "id": 39,
+                    "religion_id": 10,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[25.0, 45.0], [25.0, 65.0], [40.0, 65.0], [40.0, 45.0]]",
+                    "population": "~10 millions",
+                    "description": "Âge d'or sous l'Empire sassanide."
+                },
+                {
+                    "id": 40,
+                    "religion_id": 10,
+                    "year": 500,
+                    "type": "point",
+                    "coords": "[22.0, 72.0]",
+                    "population": "~100 000",
+                    "description": "Déclin après la conquête musulmane. Migration des Parsis vers l'Inde."
+                },
+                {
+                    "id": 41,
+                    "religion_id": 10,
+                    "year": 1000,
+                    "type": "point",
+                    "coords": "[22.0, 72.0]",
+                    "population": "~50 000",
+                    "description": "Communauté zoroastrienne en Inde (Parsis)."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Jainisme",
+            "startYear": -600,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions indiennes",
+            "sousCategorie": "-",
+            "color": "#9C27B0",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation ou moksha",
+            "region": "Inde",
+            "status": "pratiquée",
+            "description": "Fondé par Mahavira au VIe siècle av. J.-C. Religion non-théiste mettant l'accent sur l'ahimsa (non-violence), le karma, et la libération de l'âme. Pas de dieu créateur, mais des concepts de pureté spirituelle.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 42,
+                    "religion_id": 11,
+                    "year": -600,
+                    "type": "point",
+                    "coords": "[25.0, 85.0]",
+                    "population": "~50 000",
+                    "description": "Origines du jainisme dans la vallée du Gange (Inde). Enseignements de Mahavira et développement des concepts d'ahimsa (non-violence) et de moksha (libération)."
+                },
+                {
+                    "id": 43,
+                    "religion_id": 11,
+                    "year": -300,
+                    "type": "polygon",
+                    "coords": "[[20.0, 70.0], [20.0, 90.0], [30.0, 90.0], [30.0, 70.0]]",
+                    "population": "~500 000",
+                    "description": "Expansion du jainisme en Inde du Nord (Bihar, Uttar Pradesh). Construction de temples et développement des communautés monastiques."
+                },
+                {
+                    "id": 44,
+                    "religion_id": 11,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[15.0, 68.0], [15.0, 85.0], [30.0, 85.0], [30.0, 68.0]]",
+                    "population": "~1 million",
+                    "description": "Diffusion du jainisme dans le Gujarat et le Rajasthan. Influence sur l'art et l'architecture (ex. : temples de Mount Abu)."
+                },
+                {
+                    "id": 45,
+                    "religion_id": 11,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[10.0, 70.0], [10.0, 85.0], [25.0, 85.0], [25.0, 70.0]]",
+                    "population": "~1,5 million",
+                    "description": "Période classique du jainisme. Développement des sectes Digambara et Svetambara. Influence sur la littérature et la philosophie indiennes."
+                },
+                {
+                    "id": 46,
+                    "religion_id": 11,
+                    "year": 1500,
+                    "type": "point",
+                    "coords": "[23.0, 75.0]",
+                    "population": "~2 millions",
+                    "description": "Période médiévale. Le jainisme reste influent dans le Gujarat et le Karnataka malgré la montée de l'hindouisme et de l'islam."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Taoïsme",
+            "startYear": -600,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions chinoises",
+            "sousCategorie": "-",
+            "color": "#009688",
+            "judgment": "indirect",
+            "afterlife": "Immortalité, Harmonie avec le Tao",
+            "region": "Chine",
+            "status": "pratiquée",
+            "description": "Philosophie et religion fondée par Lao-Tseu. Met l'accent sur l'harmonie avec le Tao (la \"Voie\"), le yin-yang, et la recherche de l'immortalité. Pas de dieu créateur, mais une force cosmique (Tao) comme principe organisateur.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 47,
+                    "religion_id": 12,
+                    "year": -600,
+                    "type": "point",
+                    "coords": "[34.0, 109.0]",
+                    "population": "~30 000",
+                    "description": "Origines du taoïsme en Chine (vallée du Fleuve Jaune). Enseignements attribués à Lao-Tseu et rédaction du Tao Te King."
+                },
+                {
+                    "id": 48,
+                    "religion_id": 12,
+                    "year": -200,
+                    "type": "polygon",
+                    "coords": "[[30.0, 100.0], [30.0, 120.0], [40.0, 120.0], [40.0, 100.0]]",
+                    "population": "~500 000",
+                    "description": "Développement du taoïsme philosophique et religieux sous les Han. Intégration des pratiques alchimiques et méditatives."
+                },
+                {
+                    "id": 49,
+                    "religion_id": 12,
+                    "year": 200,
+                    "type": "polygon",
+                    "coords": "[[25.0, 100.0], [25.0, 125.0], [45.0, 125.0], [45.0, 100.0]]",
+                    "population": "~2 millions",
+                    "description": "Expansion du taoïsme en Chine sous les Tang. Fondation d'écoles comme Quanzhen et développement des rituels (ex. : talismans, méditation)."
+                },
+                {
+                    "id": 50,
+                    "religion_id": 12,
+                    "year": 800,
+                    "type": "polygon",
+                    "coords": "[[20.0, 95.0], [20.0, 130.0], [50.0, 130.0], [50.0, 95.0]]",
+                    "population": "~5 millions",
+                    "description": "Âge d'or du taoïsme sous les Song et les Ming. Diffusion au Vietnam et en Corée. Pratiques comme le tai chi et le feng shui se popularisent."
+                },
+                {
+                    "id": 51,
+                    "religion_id": 12,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, 95.0], [20.0, 130.0], [50.0, 130.0], [50.0, 95.0]], [[30.0, 120.0], [30.0, 150.0], [50.0, 150.0], [50.0, 120.0]]]",
+                    "population": "~10 millions",
+                    "description": "Diffusion du taoïsme en Asie de l'Est (Japon, Corée). Syncrétisme avec le bouddhisme et le confucianisme."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Bouddhisme",
+            "startYear": -500,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions indiennes",
+            "sousCategorie": "-",
+            "color": "#E67E22",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation ou nirvana",
+            "region": "Inde",
+            "status": "pratiquée",
+            "description": "Fondé par Siddhartha Gautama (Bouddha) au Ve siècle av. J.-C. Met l'accent sur la libération de la souffrance (dukkha) par le chemin octuple. Pas de dieu créateur.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 52,
+                    "religion_id": 13,
+                    "year": -500,
+                    "type": "point",
+                    "coords": "[27.0, 83.0]",
+                    "population": "~100 000",
+                    "description": "Naissance du bouddhisme en Inde. Début des enseignements de Bouddha."
+                },
+                {
+                    "id": 53,
+                    "religion_id": 13,
+                    "year": 0,
+                    "type": "point",
+                    "coords": "[27.0, 83.0]",
+                    "population": "~10 millions",
+                    "description": "Expansion du bouddhisme en Inde et en Asie centrale."
+                },
+                {
+                    "id": 54,
+                    "religion_id": 13,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[20.0, 75.0], [20.0, 100.0], [40.0, 100.0], [40.0, 75.0]]",
+                    "population": "~50 millions",
+                    "description": "Expansion en Chine sous la dynastie Han."
+                },
+                {
+                    "id": 55,
+                    "religion_id": 13,
+                    "year": 1000,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, 60.0], [20.0, 100.0], [50.0, 100.0], [50.0, 60.0]], [[5.0, 90.0], [5.0, 100.0], [25.0, 100.0], [25.0, 90.0]]]",
+                    "population": "~100 millions",
+                    "description": "Expansion en Asie de l'Est et en Asie du Sud-Est."
+                },
+                {
+                    "id": 56,
+                    "religion_id": 13,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[20.0, 60.0], [20.0, 140.0], [50.0, 140.0], [50.0, 60.0]]",
+                    "population": "~500 millions",
+                    "description": "Le bouddhisme est largement pratiqué en Asie."
+                },
+                {
+                    "id": 57,
+                    "religion_id": 13,
+                    "year": -500,
+                    "type": "point",
+                    "coords": "[27.0, 83.0]",
+                    "population": "~10 000",
+                    "description": "Origines du bouddhisme à Lumbini (Népal) et premier sermon à Sarnath (Inde). Enseignements de Siddhartha Gautama (Bouddha)."
+                },
+                {
+                    "id": 58,
+                    "religion_id": 13,
+                    "year": -300,
+                    "type": "polygon",
+                    "coords": "[[20.0, 75.0], [20.0, 95.0], [30.0, 95.0], [30.0, 75.0]]",
+                    "population": "~500 000",
+                    "description": "Expansion du bouddhisme en Inde du Nord sous l'Empire Maurya (Ashoka). Construction de stupas et diffusion des enseignements."
+                },
+                {
+                    "id": 59,
+                    "religion_id": 13,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[15.0, 60.0], [15.0, 100.0], [35.0, 100.0], [35.0, 60.0]]",
+                    "population": "~5 millions",
+                    "description": "Diffusion du bouddhisme en Asie centrale (route de la soie) et en Chine sous les Han. Écoles comme le Sarvastivada et le Mahasa?ghika."
+                },
+                {
+                    "id": 60,
+                    "religion_id": 13,
+                    "year": 500,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, 60.0], [20.0, 100.0], [40.0, 100.0], [40.0, 60.0]], [[5.0, 90.0], [5.0, 110.0], [25.0, 110.0], [25.0, 90.0]]]",
+                    "population": "~20 millions",
+                    "description": "Expansion en Asie du Sud-Est (Sri Lanka, Thaïlande, Birmanie) et déclin en Inde. Développement des écoles Theravada et Mahayana."
+                },
+                {
+                    "id": 61,
+                    "religion_id": 13,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, 60.0], [20.0, 140.0], [50.0, 140.0], [50.0, 60.0]], [[-10.0, 90.0], [-10.0, 150.0], [20.0, 150.0], [20.0, 90.0]]]",
+                    "population": "~500 millions",
+                    "description": "Diffusion mondiale du bouddhisme (Chine, Japon, Tibet, Mongolie). Influence sur les cultures locales et syncrétisme."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Bouddhisme Theravāda",
+            "startYear": -500,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Bouddhisme",
+            "sousCategorie": "Theravāda",
+            "color": "#E67E22",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation ou nirvana",
+            "region": "Sri Lanka/Thaïlande",
+            "status": "pratiquée",
+            "description": "Branche la plus ancienne du bouddhisme. Pas de dieu créateur, mais des enseignements sur la libération par la sagesse.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 62,
+                    "religion_id": 14,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[6.0, 80.0], [6.0, 82.0], [8.0, 82.0], [8.0, 80.0]]",
+                    "population": "~50 000",
+                    "description": "Origines du bouddhisme Theravada au Sri Lanka après le troisième concile bouddhique. Diffusion des enseignements de la Tripitaka."
+                },
+                {
+                    "id": 63,
+                    "religion_id": 14,
+                    "year": -200,
+                    "type": "polygon",
+                    "coords": "[[5.0, 75.0], [5.0, 100.0], [15.0, 100.0], [15.0, 75.0]]",
+                    "population": "~500 000",
+                    "description": "Expansion en Asie du Sud-Est (Thaïlande, Birmanie, Cambodge) sous l'Empire khmer et les royaumes môn. Construction de temples comme Anuradhapura."
+                },
+                {
+                    "id": 64,
+                    "religion_id": 14,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[0.0, 90.0], [0.0, 110.0], [20.0, 110.0], [20.0, 90.0]]",
+                    "population": "~5 millions",
+                    "description": "Âge d'or du Theravada en Thaïlande (royaume de Sukhothai) et au Laos. Rédaction des chroniques bouddhistes (ex. : Mahavamsa)."
+                },
+                {
+                    "id": 65,
+                    "religion_id": 14,
+                    "year": 1000,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 95.0], [-5.0, 105.0], [15.0, 105.0], [15.0, 95.0]]",
+                    "population": "~10 millions",
+                    "description": "Expansion en Indonésie (Sumatra, Java) et en Malaisie. Influence sur les royaumes de Srivijaya et de Mataram."
+                },
+                {
+                    "id": 66,
+                    "religion_id": 14,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[5.0, 90.0], [5.0, 105.0], [25.0, 105.0], [25.0, 90.0]]",
+                    "population": "~100 millions",
+                    "description": "Diffusion moderne du Theravada en Asie du Sud-Est (Birmanie, Thaïlande, Cambodge). Pratiques méditatives comme Vipassana."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Bouddhisme Mahāyāna",
+            "startYear": 100,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Bouddhisme",
+            "sousCategorie": "Mahāyāna",
+            "color": "#D4A017",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation ou nirvana",
+            "region": "Chine/Japon",
+            "status": "pratiquée",
+            "description": "Branche du bouddhisme mettant l'accent sur la compassion. Pas de dieu créateur, mais des bodhisattvas comme figures idéales.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 67,
+                    "religion_id": 15,
+                    "year": 100,
+                    "type": "point",
+                    "coords": "[34.0, 108.0]",
+                    "population": "~10 000",
+                    "description": "Origines du bouddhisme Mahayana en Inde du Nord et diffusion en Chine sous les Han. Développement des concepts de bodhisattva et de vacuité (sunyata)."
+                },
+                {
+                    "id": 68,
+                    "religion_id": 15,
+                    "year": 400,
+                    "type": "polygon",
+                    "coords": "[[30.0, 100.0], [30.0, 130.0], [50.0, 130.0], [50.0, 100.0]]",
+                    "population": "~5 millions",
+                    "description": "Expansion en Chine sous les dynasties du Nord et du Sud. Écoles comme Tiantai et Huayan. Traduction des soutras en chinois."
+                },
+                {
+                    "id": 69,
+                    "religion_id": 15,
+                    "year": 800,
+                    "type": "polygon",
+                    "coords": "[[25.0, 100.0], [25.0, 140.0], [50.0, 140.0], [50.0, 100.0]]",
+                    "population": "~20 millions",
+                    "description": "Diffusion au Japon (école Tendai), en Corée (école Hwaeom) et au Vietnam. Syncrétisme avec les croyances locales."
+                },
+                {
+                    "id": 70,
+                    "religion_id": 15,
+                    "year": 1200,
+                    "type": "multi-polygon",
+                    "coords": "[[[25.0, 100.0], [25.0, 140.0], [50.0, 140.0], [50.0, 100.0]], [[35.0, 120.0], [35.0, 150.0], [50.0, 150.0], [50.0, 120.0]]]",
+                    "population": "~50 millions",
+                    "description": "Âge d'or du Mahayana en Asie de l'Est. Développement du bouddhisme Zen (Chan en Chine, Zen au Japon) et de l'école de la Terre Pure."
+                },
+                {
+                    "id": 71,
+                    "religion_id": 15,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, 90.0], [20.0, 150.0], [50.0, 150.0], [50.0, 90.0]], [[-10.0, 100.0], [-10.0, 150.0], [20.0, 150.0], [20.0, 100.0]]]",
+                    "population": "~200 millions",
+                    "description": "Diffusion mondiale du Mahayana (Tibet, Mongolie, Occident). Influence du bouddhisme tibétain (Vajrayana) et engagement social (ex. : Dalai Lama)."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Shintoïsme",
+            "startYear": -500,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions japonaises",
+            "sousCategorie": "-",
+            "color": "#FF5722",
+            "judgment": "none",
+            "afterlife": "Monde des kamis (esprits)",
+            "region": "Japon",
+            "status": "pratiquée",
+            "description": "Religion autochtone du Japon. Croit en des kamis (esprits ou divinités) présents dans la nature, les ancêtres, et les phénomènes naturels. Pas de dieu créateur unique, mais une vénération des forces naturelles et des ancêtres.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 72,
+                    "religion_id": 16,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[30.0, 130.0], [30.0, 140.0], [40.0, 140.0], [40.0, 130.0]]",
+                    "population": "~50 000",
+                    "description": "Origines du shintoïsme au Japon (période Yayoi). Culte des kamis (esprits) et des ancêtres. Sites sacrés comme Ise et Izumo."
+                },
+                {
+                    "id": 73,
+                    "religion_id": 16,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[35.0, 128.0], [35.0, 145.0], [45.0, 145.0], [45.0, 128.0]]",
+                    "population": "~1 million",
+                    "description": "Période Kofun. Développement des sanctuaires shinto (jinja) et des rituels impériaux. Influence du bouddhisme (syncrétisme)."
+                },
+                {
+                    "id": 74,
+                    "religion_id": 16,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[30.0, 125.0], [30.0, 150.0], [50.0, 150.0], [50.0, 125.0]]",
+                    "population": "~5 millions",
+                    "description": "Période Heian. Formalisation des mythes shinto (Kojiki, Nihon Shoki) et des rituels de purification (misogi, harai)."
+                },
+                {
+                    "id": 75,
+                    "religion_id": 16,
+                    "year": 1000,
+                    "type": "polygon",
+                    "coords": "[[25.0, 125.0], [25.0, 150.0], [50.0, 150.0], [50.0, 125.0]]",
+                    "population": "~10 millions",
+                    "description": "Période Kamakura. Séparation du shintoïsme et du bouddhisme (Shinbutsu Bunri) et développement du shintoïsme impérial."
+                },
+                {
+                    "id": 76,
+                    "religion_id": 16,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[20.0, 125.0], [20.0, 150.0], [50.0, 150.0], [50.0, 125.0]]",
+                    "population": "~50 millions",
+                    "description": "Période moderne. Le shintoïsme devient religion d'État (jusqu'en 1945) et influence la culture japonaise (ex. : mariages, fêtes comme le Nouvel An)."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sikhisme",
+            "startYear": 1500,
+            "endYear": 2000,
+            "superCategorie": "Religions d'Asie",
+            "categorie": "Religions indiennes",
+            "sousCategorie": "-",
+            "color": "#9B59B6",
+            "judgment": "indirect",
+            "afterlife": "Réincarnation ou Mukti",
+            "region": "Inde (Pendjab)",
+            "status": "pratiquée",
+            "description": "Fondé par Guru Nanak au XVIe siècle. Croit en un Dieu créateur unique (Waheguru), sans forme, éternel et omnipotent.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 77,
+                    "religion_id": 17,
+                    "year": 1500,
+                    "type": "point",
+                    "coords": "[31.6, 74.9]",
+                    "population": "~1 000",
+                    "description": "Fondation du sikhisme par Guru Nanak au Pendjab."
+                },
+                {
+                    "id": 78,
+                    "religion_id": 17,
+                    "year": 1600,
+                    "type": "point",
+                    "coords": "[31.6, 74.9]",
+                    "population": "~100 000",
+                    "description": "Développement du sikhisme sous Guru Arjan. Construction du Temple d'Or."
+                },
+                {
+                    "id": 79,
+                    "religion_id": 17,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[28.0, 70.0], [28.0, 80.0], [34.0, 80.0], [34.0, 70.0]]",
+                    "population": "~2 millions",
+                    "description": "Expansion du sikhisme au Pendjab."
+                },
+                {
+                    "id": 80,
+                    "religion_id": 17,
+                    "year": 2000,
+                    "type": "point",
+                    "coords": "[45.0, -125.0]",
+                    "population": "~25 millions",
+                    "description": "Diaspora sikh dans le monde, notamment au Canada et en Europe."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Judaïsme",
+            "startYear": -2000,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "-",
+            "sousCategorie": "-",
+            "color": "#8E44AD",
+            "judgment": "partial",
+            "afterlife": "Olam Ha-Ba, Sheol",
+            "region": "Moyen-Orient",
+            "status": "pratiquée",
+            "description": "Le judaïsme est l'une des plus anciennes religions monothéistes, fondée sur l'alliance entre Dieu (Yahvé) et le peuple juif. Basé sur la Torah, il met l'accent sur l'étude des textes sacrés et la justice sociale.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 81,
+                    "religion_id": 18,
+                    "year": -2000,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~100 000",
+                    "description": "Période des patriarches (Abraham, Isaac, Jacob) et installation en Canaan."
+                },
+                {
+                    "id": 82,
+                    "religion_id": 18,
+                    "year": -1900,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~120 000",
+                    "description": "Début de la sédentarisation des tribus hébraïques en Canaan."
+                },
+                {
+                    "id": 83,
+                    "religion_id": 18,
+                    "year": -1800,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~150 000",
+                    "description": "Période de l'esclavage en Égypte sous les pharaons."
+                },
+                {
+                    "id": 84,
+                    "religion_id": 18,
+                    "year": -1700,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~180 000",
+                    "description": "Les Hébreux sont réduits en esclavage en Égypte."
+                },
+                {
+                    "id": 85,
+                    "religion_id": 18,
+                    "year": -1600,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~200 000",
+                    "description": "Période de l'oppression en Égypte avant l'Exode."
+                },
+                {
+                    "id": 86,
+                    "religion_id": 18,
+                    "year": -1500,
+                    "type": "point",
+                    "coords": "[30.0, 34.5]",
+                    "population": "~250 000",
+                    "description": "Exode hors d'Égypte sous la direction de Moïse."
+                },
+                {
+                    "id": 87,
+                    "religion_id": 18,
+                    "year": -1400,
+                    "type": "point",
+                    "coords": "[31.0, 35.0]",
+                    "population": "~300 000",
+                    "description": "Errance dans le désert du Sinaï et réception de la Torah."
+                },
+                {
+                    "id": 88,
+                    "religion_id": 18,
+                    "year": -1300,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~350 000",
+                    "description": "Conquête de Canaan sous Josué."
+                },
+                {
+                    "id": 89,
+                    "religion_id": 18,
+                    "year": -1200,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~400 000",
+                    "description": "Période des Juges en terre d'Israël."
+                },
+                {
+                    "id": 90,
+                    "religion_id": 18,
+                    "year": -1100,
+                    "type": "polygon",
+                    "coords": "[[31.0, 34.0], [31.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~500 000",
+                    "description": "Règne du roi David : Jérusalem devient la capitale du royaume unifié d'Israël."
+                },
+                {
+                    "id": 91,
+                    "religion_id": 18,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~1 million",
+                    "description": "Règne du roi Salomon : construction du Premier Temple de Jérusalem."
+                },
+                {
+                    "id": 92,
+                    "religion_id": 18,
+                    "year": -900,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~800 000",
+                    "description": "Division du royaume en Israël (Nord) et Juda (Sud)."
+                },
+                {
+                    "id": 93,
+                    "religion_id": 18,
+                    "year": -800,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~600 000",
+                    "description": "Chute du royaume d'Israël (Nord) sous les Assyriens."
+                },
+                {
+                    "id": 94,
+                    "religion_id": 18,
+                    "year": -700,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~500 000",
+                    "description": "Période des prophètes (Isaïe, Jérémie) et menaces de l'Empire assyrien."
+                },
+                {
+                    "id": 95,
+                    "religion_id": 18,
+                    "year": -600,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~400 000",
+                    "description": "Chute de Jérusalem et destruction du Premier Temple par les Babyloniens. Début de l'exil."
+                },
+                {
+                    "id": 96,
+                    "religion_id": 18,
+                    "year": -500,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~300 000",
+                    "description": "Retour de l'exil à Babylone et reconstruction du Second Temple."
+                },
+                {
+                    "id": 97,
+                    "religion_id": 18,
+                    "year": -400,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~250 000",
+                    "description": "Période du Second Temple et début de la diaspora juive."
+                },
+                {
+                    "id": 98,
+                    "religion_id": 18,
+                    "year": -300,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~200 000",
+                    "description": "Conquête de la Judée par Alexandre le Grand. Influence hellénistique."
+                },
+                {
+                    "id": 99,
+                    "religion_id": 18,
+                    "year": -200,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~180 000",
+                    "description": "Règne des Hasmonéens et lutte pour l'indépendance contre les Séleucides."
+                },
+                {
+                    "id": 100,
+                    "religion_id": 18,
+                    "year": -100,
+                    "type": "polygon",
+                    "coords": "[[30.0, 34.0], [30.0, 36.0], [33.0, 36.0], [33.0, 34.0]]",
+                    "population": "~150 000",
+                    "description": "Règne d'Hérode le Grand. Construction du Second Temple agrandi."
+                },
+                {
+                    "id": 101,
+                    "religion_id": 18,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]",
+                    "population": "~1 million",
+                    "description": "Destruction du Second Temple par les Romains (70 ap. J.-C.). Début de la grande diaspora juive."
+                },
+                {
+                    "id": 102,
+                    "religion_id": 18,
+                    "year": 100,
+                    "type": "polygon",
+                    "coords": "[[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]",
+                    "population": "~800 000",
+                    "description": "Dispersion des Juifs dans l'Empire romain après la révolte de Bar Kokhba (135 ap. J.-C.)."
+                },
+                {
+                    "id": 103,
+                    "religion_id": 18,
+                    "year": 200,
+                    "type": "polygon",
+                    "coords": "[[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]",
+                    "population": "~600 000",
+                    "description": "Communautés juives en diaspora en Europe et au Moyen-Orient."
+                },
+                {
+                    "id": 104,
+                    "religion_id": 18,
+                    "year": 300,
+                    "type": "polygon",
+                    "coords": "[[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des académies talmudiques en Babylone et en Galilée."
+                },
+                {
+                    "id": 105,
+                    "religion_id": 18,
+                    "year": 400,
+                    "type": "polygon",
+                    "coords": "[[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]",
+                    "population": "~400 000",
+                    "description": "Rédaction du Talmud de Jérusalem et de Babylone."
+                },
+                {
+                    "id": 106,
+                    "religion_id": 18,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]]",
+                    "population": "~450 000",
+                    "description": "Expansion des communautés juives en Europe (Ashkénazes)."
+                },
+                {
+                    "id": 107,
+                    "religion_id": 18,
+                    "year": 600,
+                    "type": "polygon",
+                    "coords": "[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des communautés juives en Espagne (Séfardim)."
+                },
+                {
+                    "id": 108,
+                    "religion_id": 18,
+                    "year": 700,
+                    "type": "polygon",
+                    "coords": "[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]]",
+                    "population": "~600 000",
+                    "description": "Âge d'or de la culture juive en Espagne sous les Omeyyades."
+                },
+                {
+                    "id": 109,
+                    "religion_id": 18,
+                    "year": 800,
+                    "type": "polygon",
+                    "coords": "[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]]",
+                    "population": "~700 000",
+                    "description": "Communautés juives prospères en Europe et au Moyen-Orient."
+                },
+                {
+                    "id": 110,
+                    "religion_id": 18,
+                    "year": 900,
+                    "type": "polygon",
+                    "coords": "[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]]",
+                    "population": "~800 000",
+                    "description": "Développement des yeshivas en Europe."
+                },
+                {
+                    "id": 111,
+                    "religion_id": 18,
+                    "year": 1000,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~1,5 million",
+                    "description": "Expansion des communautés juives en Europe de l'Est et au Moyen-Orient."
+                },
+                {
+                    "id": 112,
+                    "religion_id": 18,
+                    "year": 1100,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~1,8 million",
+                    "description": "Persécutions en Europe (Croades, expulsions)."
+                },
+                {
+                    "id": 113,
+                    "religion_id": 18,
+                    "year": 1200,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~2 millions",
+                    "description": "Développement des communautés juives en Pologne et en Lituanie."
+                },
+                {
+                    "id": 114,
+                    "religion_id": 18,
+                    "year": 1300,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~2,5 millions",
+                    "description": "Expulsions d'Angleterre et de France. Accueil en Europe de l'Est."
+                },
+                {
+                    "id": 115,
+                    "religion_id": 18,
+                    "year": 1400,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~3 millions",
+                    "description": "Expulsions d'Espagne (1492). Début de la diaspora séfarade."
+                },
+                {
+                    "id": 116,
+                    "religion_id": 18,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~3,5 millions",
+                    "description": "Communautés juives en Europe de l'Est et autour de la Méditerranée."
+                },
+                {
+                    "id": 117,
+                    "religion_id": 18,
+                    "year": 1600,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~4 millions",
+                    "description": "Développement des communautés juives en Europe centrale (Pologne, Lituanie)."
+                },
+                {
+                    "id": 118,
+                    "religion_id": 18,
+                    "year": 1700,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]]]",
+                    "population": "~5 millions",
+                    "description": "Persécutions en Europe (pogroms). Migration vers l'Europe de l'Ouest."
+                },
+                {
+                    "id": 119,
+                    "religion_id": 18,
+                    "year": 1800,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 30.0], [30.0, 40.0], [40.0, 40.0], [40.0, 30.0]], [[40.0, -75.0], [40.0, -65.0], [50.0, -65.0], [50.0, -75.0]]]",
+                    "population": "~7 millions",
+                    "description": "Migration massive vers les Amériques et l'Europe de l'Ouest."
+                },
+                {
+                    "id": 120,
+                    "religion_id": 18,
+                    "year": 1900,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~10 millions",
+                    "description": "Début du sionisme et retour en terre d'Israël. Diaspora mondiale (Europe, Amériques)."
+                },
+                {
+                    "id": 121,
+                    "religion_id": 18,
+                    "year": 2000,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~15 millions",
+                    "description": "Création de l'État d'Israël (1948). Communautés juives dans le monde entier."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Christianisme",
+            "startYear": 1,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "-",
+            "color": "#E74C3C",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer, Purgatoire",
+            "region": "Moyen-Orient",
+            "status": "pratiquée",
+            "description": "Religion monothéiste basée sur les enseignements de Jésus-Christ. Repose sur la Bible (Ancien et Nouveau Testament) et la promesse de la vie éternelle. Croit en un Dieu créateur (Yahvé).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 122,
+                    "religion_id": 19,
+                    "year": 1,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~1 000",
+                    "description": "Naissance de Jésus à Bethléem. Début des enseignements en Galilée."
+                },
+                {
+                    "id": 123,
+                    "religion_id": 19,
+                    "year": 100,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~10 000",
+                    "description": "Premières communautés chrétiennes à Jérusalem. Persécutions sous l'Empire romain."
+                },
+                {
+                    "id": 124,
+                    "religion_id": 19,
+                    "year": 200,
+                    "type": "point",
+                    "coords": "[31.8, 35.2]",
+                    "population": "~50 000",
+                    "description": "Expansion du christianisme dans l'Empire romain malgré les persécutions."
+                },
+                {
+                    "id": 125,
+                    "religion_id": 19,
+                    "year": 300,
+                    "type": "point",
+                    "coords": "[41.9, 12.5]",
+                    "population": "~200 000",
+                    "description": "Le christianisme se répand à Rome. Persécutions sous Dioclétien."
+                },
+                {
+                    "id": 126,
+                    "religion_id": 19,
+                    "year": 400,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 20.0], [50.0, 20.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 40.0], [40.0, 40.0], [40.0, 25.0]]]",
+                    "population": "~10 millions",
+                    "description": "L'édit de Milan (313) légalise le christianisme. Expansion dans l'Empire romain."
+                },
+                {
+                    "id": 127,
+                    "religion_id": 19,
+                    "year": 500,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 25.0], [50.0, 25.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 40.0], [40.0, 40.0], [40.0, 25.0]]]",
+                    "population": "~15 millions",
+                    "description": "Chute de l'Empire romain d'Occident. Le christianisme devient la religion dominante en Europe."
+                },
+                {
+                    "id": 128,
+                    "religion_id": 19,
+                    "year": 600,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 25.0], [50.0, 25.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 45.0], [45.0, 45.0], [45.0, 25.0]]]",
+                    "population": "~20 millions",
+                    "description": "Conversion des peuples germaniques. Développement du monachisme."
+                },
+                {
+                    "id": 129,
+                    "religion_id": 19,
+                    "year": 700,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 25.0], [50.0, 25.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 50.0], [50.0, 50.0], [50.0, 25.0]]]",
+                    "population": "~25 millions",
+                    "description": "Expansion en Europe du Nord. Début de la christianisation des Slaves."
+                },
+                {
+                    "id": 130,
+                    "religion_id": 19,
+                    "year": 800,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 30.0], [50.0, 30.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 50.0], [50.0, 50.0], [50.0, 25.0]]]",
+                    "population": "~30 millions",
+                    "description": "Couronnement de Charlemagne (800). Le christianisme devient la religion officielle de l'Empire carolingien."
+                },
+                {
+                    "id": 131,
+                    "religion_id": 19,
+                    "year": 900,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -10.0], [35.0, 30.0], [50.0, 30.0], [50.0, -10.0]], [[30.0, 25.0], [30.0, 50.0], [50.0, 50.0], [50.0, 25.0]]]",
+                    "population": "~35 millions",
+                    "description": "Développement des monastères et expansion en Europe de l'Est."
+                },
+                {
+                    "id": 132,
+                    "religion_id": 19,
+                    "year": 1000,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -20.0], [35.0, 60.0], [60.0, 60.0], [60.0, -20.0]]]",
+                    "population": "~50 millions",
+                    "description": "Le christianisme domine l'Europe. Grand Schisme entre Orient et Occident (1054)."
+                },
+                {
+                    "id": 133,
+                    "religion_id": 19,
+                    "year": 1100,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -20.0], [35.0, 60.0], [60.0, 60.0], [60.0, -20.0]]]",
+                    "population": "~60 millions",
+                    "description": "Croades et expansion du christianisme au Proche-Orient."
+                },
+                {
+                    "id": 134,
+                    "religion_id": 19,
+                    "year": 1200,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -20.0], [35.0, 60.0], [60.0, 60.0], [60.0, -20.0]]]",
+                    "population": "~70 millions",
+                    "description": "Construction des cathédrales gothiques. Développement des universités."
+                },
+                {
+                    "id": 135,
+                    "religion_id": 19,
+                    "year": 1300,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -20.0], [35.0, 60.0], [60.0, 60.0], [60.0, -20.0]]]",
+                    "population": "~80 millions",
+                    "description": "Peste noire et crise de l'Église. Début de la Réforme."
+                },
+                {
+                    "id": 136,
+                    "religion_id": 19,
+                    "year": 1400,
+                    "type": "multi-polygon",
+                    "coords": "[[[35.0, -20.0], [35.0, 60.0], [60.0, 60.0], [60.0, -20.0]]]",
+                    "population": "~90 millions",
+                    "description": "Renaissance et humanisme. Imprimerie de Gutenberg (1450)."
+                },
+                {
+                    "id": 137,
+                    "religion_id": 19,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[-10.0, -20.0], [-10.0, 80.0], [60.0, 80.0], [60.0, -20.0]], [[-10.0, -120.0], [-10.0, -60.0], [10.0, -60.0], [10.0, -120.0]]]",
+                    "population": "~200 millions",
+                    "description": "Réforme protestante (1517). Début de la colonisation des Amériques et évangélisation."
+                },
+                {
+                    "id": 138,
+                    "religion_id": 19,
+                    "year": 1600,
+                    "type": "multi-polygon",
+                    "coords": "[[[-10.0, -20.0], [-10.0, 80.0], [60.0, 80.0], [60.0, -20.0]], [[-20.0, -120.0], [-20.0, -60.0], [10.0, -60.0], [10.0, -120.0]]]",
+                    "population": "~300 millions",
+                    "description": "Contre-Réforme catholique. Expansion du christianisme en Amérique latine."
+                },
+                {
+                    "id": 139,
+                    "religion_id": 19,
+                    "year": 1700,
+                    "type": "multi-polygon",
+                    "coords": "[[[-20.0, -20.0], [-20.0, 80.0], [60.0, 80.0], [60.0, -20.0]], [[-30.0, -120.0], [-30.0, -60.0], [10.0, -60.0], [10.0, -120.0]]]",
+                    "population": "~400 millions",
+                    "description": "Lumières et déclin de l'influence religieuse en Europe. Expansion en Afrique et Asie."
+                },
+                {
+                    "id": 140,
+                    "religion_id": 19,
+                    "year": 1800,
+                    "type": "multi-polygon",
+                    "coords": "[[[-30.0, -20.0], [-30.0, 80.0], [60.0, 80.0], [60.0, -20.0]], [[-40.0, -120.0], [-40.0, -60.0], [10.0, -60.0], [10.0, -120.0]]]",
+                    "population": "~500 millions",
+                    "description": "Réveils religieux en Europe et aux États-Unis. Expansion coloniale et missionnaire."
+                },
+                {
+                    "id": 141,
+                    "religion_id": 19,
+                    "year": 1900,
+                    "type": "multi-polygon",
+                    "coords": "[[[-60.0, -20.0], [-60.0, 80.0], [60.0, 80.0], [60.0, -20.0]], [[-60.0, -120.0], [-60.0, -60.0], [10.0, -60.0], [10.0, -120.0]], [[-60.0, 80.0], [-60.0, 180.0], [10.0, 180.0], [10.0, 80.0]]]",
+                    "population": "~1 milliard",
+                    "description": "Expansion mondiale du christianisme. Développement des Églises en Afrique et en Asie."
+                },
+                {
+                    "id": 142,
+                    "religion_id": 19,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[-60.0, -180.0], [-60.0, -60.0], [80.0, -60.0], [80.0, -180.0]], [[-60.0, -60.0], [-60.0, 80.0], [80.0, 80.0], [80.0, -60.0]], [[-60.0, 80.0], [-60.0, 180.0], [80.0, 180.0], [80.0, 80.0]]]",
+                    "population": "~2,4 milliards",
+                    "description": "Le christianisme est la religion la plus pratiquée au monde, avec des communautés sur tous les continents."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Catholicisme",
+            "startYear": 30,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Église traditionnelle",
+            "color": "#E74C3C",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer, Purgatoire",
+            "region": "Rome",
+            "status": "pratiquée",
+            "description": "Branche du christianisme centrée sur le Pape à Rome. Croit en un Dieu créateur (Trinité : Père, Fils, Saint-Esprit).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 143,
+                    "religion_id": 20,
+                    "year": 30,
+                    "type": "point",
+                    "coords": "[41.9, 12.5]",
+                    "population": "~10 000",
+                    "description": "Origines du catholicisme à Rome sous l'empereur Constantin. Reconnaissance officielle avec l'édit de Milan (313)."
+                },
+                {
+                    "id": 144,
+                    "religion_id": 20,
+                    "year": 400,
+                    "type": "polygon",
+                    "coords": "[[35.0, -10.0], [35.0, 30.0], [50.0, 30.0], [50.0, -10.0]]",
+                    "population": "~20 millions",
+                    "description": "Expansion dans l'Empire romain d'Occident. Conversion des peuples germaniques et développement des premières églises."
+                },
+                {
+                    "id": 145,
+                    "religion_id": 20,
+                    "year": 800,
+                    "type": "polygon",
+                    "coords": "[[35.0, -20.0], [35.0, 40.0], [60.0, 40.0], [60.0, -20.0]]",
+                    "population": "~50 millions",
+                    "description": "Âge d'or du catholicisme sous Charlemagne. Christianisation de l'Europe de l'Ouest et fondation du Saint-Empire romain germanique."
+                },
+                {
+                    "id": 146,
+                    "religion_id": 20,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[-20.0, -80.0], [-20.0, 20.0], [60.0, 20.0], [60.0, -80.0]], [[-10.0, -120.0], [-10.0, -30.0], [20.0, -30.0], [20.0, -120.0]]]",
+                    "population": "~200 millions",
+                    "description": "Expansion mondiale avec les empires coloniaux espagnol et portugais. Diffusion en Amérique latine, aux Philippines et en Afrique."
+                },
+                {
+                    "id": 147,
+                    "religion_id": 20,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[-60.0, -180.0], [-60.0, 20.0], [80.0, 20.0], [80.0, -180.0]], [[-30.0, -120.0], [-30.0, 20.0], [10.0, 20.0], [10.0, -120.0]]]",
+                    "population": "~1,3 milliard",
+                    "description": "Présence mondiale avec des communautés en Europe, Amérique latine, Afrique, Asie et Océanie. Influence culturelle et politique majeure."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Orthodoxie",
+            "startYear": 1054,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Église traditionnelle",
+            "color": "#C0392B",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "Constantinople",
+            "status": "pratiquée",
+            "description": "Branche chrétienne séparée de Rome en 1054. Croit en un Dieu créateur (Trinité).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 148,
+                    "religion_id": 21,
+                    "year": 1054,
+                    "type": "point",
+                    "coords": "[41.0, 28.9]",
+                    "population": "~1 million",
+                    "description": "Séparation de l'Église orthodoxe et de Rome (Grand Schisme). Centre spirituel à Constantinople."
+                },
+                {
+                    "id": 149,
+                    "religion_id": 21,
+                    "year": 1200,
+                    "type": "polygon",
+                    "coords": "[[40.0, 20.0], [40.0, 50.0], [60.0, 50.0], [60.0, 20.0]]",
+                    "population": "~10 millions",
+                    "description": "Expansion dans l'Empire byzantin et conversion des Slaves (ex. : Russie kiévienne)."
+                },
+                {
+                    "id": 150,
+                    "religion_id": 21,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[40.0, 20.0], [40.0, 60.0], [70.0, 60.0], [70.0, 20.0]]",
+                    "population": "~50 millions",
+                    "description": "Diffusion en Europe de l'Est (Russie, Balkans) et développement des églises nationales (ex. : Église russe orthodoxe)."
+                },
+                {
+                    "id": 151,
+                    "religion_id": 21,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[35.0, 20.0], [35.0, 70.0], [75.0, 70.0], [75.0, 20.0]]",
+                    "population": "~100 millions",
+                    "description": "Apogée de l'orthodoxie en Russie impériale. Influence sur la culture, l'art et la politique."
+                },
+                {
+                    "id": 152,
+                    "religion_id": 21,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[35.0, 20.0], [35.0, 70.0], [75.0, 70.0], [75.0, 20.0]]",
+                    "population": "~220 millions",
+                    "description": "Présence majeure en Europe de l'Est, Russie et diaspora. Résurgence après la chute du communisme."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Protestantisme",
+            "startYear": 1517,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Protestantisme",
+            "color": "#E67E22",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "Europe",
+            "status": "pratiquée",
+            "description": "Mouvement issu de la Réforme du XVIe siècle. Inclut le luthéranisme, le calvinisme, et l'anglicanisme. Croit en un Dieu créateur (Trinité) et met l'accent sur la Bible et la justification par la foi.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 153,
+                    "religion_id": 22,
+                    "year": 1517,
+                    "type": "point",
+                    "coords": "[51.5, 10.5]",
+                    "population": "~10 000",
+                    "description": "Début de la Réforme protestante avec Martin Luther en Allemagne. Publication des 95 thèses."
+                },
+                {
+                    "id": 154,
+                    "religion_id": 22,
+                    "year": 1550,
+                    "type": "polygon",
+                    "coords": "[[45.0, -10.0], [45.0, 30.0], [65.0, 30.0], [65.0, -10.0]]",
+                    "population": "~10 millions",
+                    "description": "Expansion en Europe du Nord (Allemagne, Scandinavie, Pays-Bas). Guerre de Trente Ans et conflits religieux."
+                },
+                {
+                    "id": 155,
+                    "religion_id": 22,
+                    "year": 1650,
+                    "type": "multi-polygon",
+                    "coords": "[[[45.0, -10.0], [45.0, 30.0], [65.0, 30.0], [65.0, -10.0]], [[35.0, -80.0], [35.0, -60.0], [50.0, -60.0], [50.0, -80.0]]]",
+                    "population": "~20 millions",
+                    "description": "Diffusion en Amérique du Nord (colons anglais, néerlandais) et en Afrique du Sud. Diversification des branches (luthéranisme, calvinisme, anglicanisme)."
+                },
+                {
+                    "id": 156,
+                    "religion_id": 22,
+                    "year": 1800,
+                    "type": "multi-polygon",
+                    "coords": "[[[45.0, -10.0], [45.0, 30.0], [65.0, 30.0], [65.0, -10.0]], [[30.0, -120.0], [30.0, -60.0], [50.0, -60.0], [50.0, -120.0]], [[-30.0, 10.0], [-30.0, 50.0], [10.0, 50.0], [10.0, 10.0]]]",
+                    "population": "~100 millions",
+                    "description": "Expansion mondiale avec les empires coloniaux britannique et néerlandais. Influence sur les cultures occidentales."
+                },
+                {
+                    "id": 157,
+                    "religion_id": 22,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[45.0, -10.0], [45.0, 30.0], [65.0, 30.0], [65.0, -10.0]], [[20.0, -120.0], [20.0, -60.0], [60.0, -60.0], [60.0, -120.0]], [[-40.0, 10.0], [-40.0, 50.0], [20.0, 50.0], [20.0, 10.0]]]",
+                    "population": "~900 millions",
+                    "description": "Présence mondiale avec des communautés en Europe, Amérique du Nord, Afrique et Asie. Diversification en multiples dénominations."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Luthéranisme",
+            "startYear": 1517,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Protestantisme",
+            "color": "#F39C12",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "Allemagne",
+            "status": "pratiquée",
+            "description": "Fondé par Martin Luther. Croit en un Dieu créateur (Trinité) et en la grâce divine.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 158,
+                    "religion_id": 23,
+                    "year": 1517,
+                    "type": "point",
+                    "coords": "[51.5, 10.5]",
+                    "population": "~5 000",
+                    "description": "Fondation du luthéranisme par Martin Luther en Allemagne. Réforme basée sur la justification par la foi et l'autorité de la Bible."
+                },
+                {
+                    "id": 159,
+                    "religion_id": 23,
+                    "year": 1550,
+                    "type": "polygon",
+                    "coords": "[[48.0, 5.0], [48.0, 20.0], [58.0, 20.0], [58.0, 5.0]]",
+                    "population": "~5 millions",
+                    "description": "Expansion en Allemagne, Scandinavie et pays baltes. Adoption comme religion d'État dans plusieurs principautés allemandes."
+                },
+                {
+                    "id": 160,
+                    "religion_id": 23,
+                    "year": 1650,
+                    "type": "polygon",
+                    "coords": "[[50.0, -10.0], [50.0, 30.0], [70.0, 30.0], [70.0, -10.0]]",
+                    "population": "~10 millions",
+                    "description": "Diffusion en Europe du Nord et migration vers les Amériques (ex. : Pennsylvanie). Influence sur l'éducation et la culture."
+                },
+                {
+                    "id": 161,
+                    "religion_id": 23,
+                    "year": 1800,
+                    "type": "multi-polygon",
+                    "coords": "[[[48.0, 5.0], [48.0, 20.0], [58.0, 20.0], [58.0, 5.0]], [[40.0, -80.0], [40.0, -70.0], [50.0, -70.0], [50.0, -80.0]]]",
+                    "population": "~20 millions",
+                    "description": "Expansion aux États-Unis (immigration allemande et scandinave). Fondation d'églises luthériennes en Amérique du Nord."
+                },
+                {
+                    "id": 162,
+                    "religion_id": 23,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[48.0, 5.0], [48.0, 20.0], [58.0, 20.0], [58.0, 5.0]], [[35.0, -120.0], [35.0, -70.0], [50.0, -70.0], [50.0, -120.0]]]",
+                    "population": "~70 millions",
+                    "description": "Présence mondiale avec des communautés en Europe, Amérique du Nord, Amérique latine et Afrique. Engagement social et œcuménisme."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Calvinisme",
+            "startYear": 1530,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Protestantisme",
+            "color": "#D35400",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "Suisse",
+            "status": "pratiquée",
+            "description": "Fondé par Jean Calvin. Croit en un Dieu créateur (Trinité) et en la prédestination.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 163,
+                    "religion_id": 24,
+                    "year": 1530,
+                    "type": "point",
+                    "coords": "[46.5, 6.6]",
+                    "population": "~1 000",
+                    "description": "Fondation du calvinisme par Jean Calvin à Genève. Réforme basée sur la prédestination et la souveraineté de Dieu."
+                },
+                {
+                    "id": 164,
+                    "religion_id": 24,
+                    "year": 1560,
+                    "type": "polygon",
+                    "coords": "[[45.0, 5.0], [45.0, 10.0], [50.0, 10.0], [50.0, 5.0]]",
+                    "population": "~2 millions",
+                    "description": "Expansion en Suisse, France (huguenots), Pays-Bas et Écosse. Influence sur les révolutions politiques (ex. : guerre de Trente Ans)."
+                },
+                {
+                    "id": 165,
+                    "religion_id": 24,
+                    "year": 1650,
+                    "type": "polygon",
+                    "coords": "[[40.0, -80.0], [40.0, -60.0], [50.0, -60.0], [50.0, -80.0]]",
+                    "population": "~5 millions",
+                    "description": "Migration des calvinistes vers l'Amérique du Nord (Puritains en Nouvelle-Angleterre). Fondation de colonies comme Massachusetts."
+                },
+                {
+                    "id": 166,
+                    "religion_id": 24,
+                    "year": 1800,
+                    "type": "multi-polygon",
+                    "coords": "[[[45.0, 5.0], [45.0, 10.0], [50.0, 10.0], [50.0, 5.0]], [[35.0, -85.0], [35.0, -70.0], [45.0, -70.0], [45.0, -85.0]]]",
+                    "population": "~10 millions",
+                    "description": "Expansion aux États-Unis (Grand Réveil) et en Afrique du Sud (colons néerlandais). Influence sur l'éducation et la démocratie."
+                },
+                {
+                    "id": 167,
+                    "religion_id": 24,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -120.0], [40.0, -70.0], [50.0, -70.0], [50.0, -120.0]], [[-30.0, 15.0], [-30.0, 40.0], [-10.0, 40.0], [-10.0, 15.0]]]",
+                    "population": "~15 millions",
+                    "description": "Présence mondiale avec des communautés en Amérique du Nord, Europe, Afrique du Sud et Corée du Sud. Engagement dans la justice sociale."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Anglicanisme",
+            "startYear": 1534,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Protestantisme",
+            "color": "#8E44AD",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "Angleterre",
+            "status": "pratiquée",
+            "description": "Fondé par Henri VIII. Croit en un Dieu créateur (Trinité) et combine traditions catholiques et protestantes.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 168,
+                    "religion_id": 25,
+                    "year": 1534,
+                    "type": "point",
+                    "coords": "[51.5, -0.1]",
+                    "population": "~5 000",
+                    "description": "Fondation de l'anglicanisme par Henri VIII en Angleterre. Séparation de Rome et création de l'Église d'Angleterre."
+                },
+                {
+                    "id": 169,
+                    "religion_id": 25,
+                    "year": 1600,
+                    "type": "polygon",
+                    "coords": "[[50.0, -10.0], [50.0, 5.0], [55.0, 5.0], [55.0, -10.0]]",
+                    "population": "~5 millions",
+                    "description": "Expansion en Angleterre, Pays de Galles et Irlande. Conflits religieux avec les catholiques et les puritains."
+                },
+                {
+                    "id": 170,
+                    "religion_id": 25,
+                    "year": 1700,
+                    "type": "multi-polygon",
+                    "coords": "[[[50.0, -10.0], [50.0, 5.0], [55.0, 5.0], [55.0, -10.0]], [[35.0, -80.0], [35.0, -60.0], [45.0, -60.0], [45.0, -80.0]]]",
+                    "population": "~10 millions",
+                    "description": "Diffusion en Amérique du Nord (colonies anglaises) et en Australie. Influence sur la culture et la politique britannique."
+                },
+                {
+                    "id": 171,
+                    "religion_id": 25,
+                    "year": 1900,
+                    "type": "multi-polygon",
+                    "coords": "[[[40.0, -10.0], [40.0, 5.0], [60.0, 5.0], [60.0, -10.0]], [[30.0, -120.0], [30.0, -60.0], [50.0, -60.0], [50.0, -120.0]], [[-40.0, 110.0], [-40.0, 155.0], [-10.0, 155.0], [-10.0, 110.0]]]",
+                    "population": "~25 millions",
+                    "description": "Expansion dans l'Empire britannique (Inde, Afrique, Océanie). Syncrétisme avec les cultures locales."
+                },
+                {
+                    "id": 172,
+                    "religion_id": 25,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[50.0, -10.0], [50.0, 5.0], [60.0, 5.0], [60.0, -10.0]], [[20.0, -120.0], [20.0, -60.0], [60.0, -60.0], [60.0, -120.0]], [[-40.0, 110.0], [-40.0, 155.0], [-10.0, 155.0], [-10.0, 110.0]]]",
+                    "population": "~85 millions",
+                    "description": "Présence mondiale avec des communautés en Angleterre, Amérique du Nord, Afrique et Australie. Rôle dans les débats sociaux et éthiques contemporains."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Églises évangéliques",
+            "startYear": 1800,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Christianisme",
+            "sousCategorie": "Protestantisme",
+            "color": "#FFD700",
+            "judgment": "central",
+            "afterlife": "Paradis, Enfer",
+            "region": "États-Unis/Monde",
+            "status": "pratiquée",
+            "description": "Mouvement chrétien issu du protestantisme au XVIIIe et XIXe siècles. Croit en un Dieu créateur (Trinité) et met l'accent sur la conversion personnelle, l'évangélisation, et l'autorité de la Bible.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 173,
+                    "religion_id": 26,
+                    "year": 1800,
+                    "type": "point",
+                    "coords": "[37.8, -80.8]",
+                    "population": "~10 000",
+                    "description": "Origines des églises évangéliques aux États-Unis (Grand Réveil). Mouvement basé sur la conversion personnelle et l'évangélisation."
+                },
+                {
+                    "id": 174,
+                    "religion_id": 26,
+                    "year": 1850,
+                    "type": "polygon",
+                    "coords": "[[35.0, -90.0], [35.0, -80.0], [40.0, -80.0], [40.0, -90.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion dans le Sud des États-Unis. Développement des églises baptistes et méthodistes."
+                },
+                {
+                    "id": 175,
+                    "religion_id": 26,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[30.0, -100.0], [30.0, -70.0], [45.0, -70.0], [45.0, -100.0]]",
+                    "population": "~10 millions",
+                    "description": "Croissance des mouvements évangéliques (ex. : Assemblées de Dieu, pentecôtistes). Expansion en Amérique latine."
+                },
+                {
+                    "id": 176,
+                    "religion_id": 26,
+                    "year": 1950,
+                    "type": "multi-polygon",
+                    "coords": "[[[30.0, -100.0], [30.0, -70.0], [45.0, -70.0], [45.0, -100.0]], [[-20.0, -70.0], [-20.0, -30.0], [10.0, -30.0], [10.0, -70.0]], [[-30.0, 10.0], [-30.0, 50.0], [10.0, 50.0], [10.0, 10.0]]]",
+                    "population": "~100 millions",
+                    "description": "Expansion mondiale (Afrique, Asie, Amérique latine). Influence des missions évangéliques et des médias (radio, télévision)."
+                },
+                {
+                    "id": 177,
+                    "religion_id": 26,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[30.0, -120.0], [30.0, -60.0], [50.0, -60.0], [50.0, -120.0]], [[-60.0, -70.0], [-60.0, 20.0], [20.0, 20.0], [20.0, -70.0]], [[20.0, 30.0], [20.0, 140.0], [50.0, 140.0], [50.0, 30.0]]]",
+                    "population": "~600 millions",
+                    "description": "Présence mondiale avec des communautés en Amérique, Afrique, Asie et Europe. Engagement dans l'évangélisation, l'aide humanitaire et la politique."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Islam",
+            "startYear": 600,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Islam",
+            "sousCategorie": "-",
+            "color": "#27AE60",
+            "judgment": "central",
+            "afterlife": "Jannah ou Jahannam",
+            "region": "Arabie",
+            "status": "pratiquée",
+            "description": "Fondé par Mahomet. Croit en un Dieu créateur unique (Allah), omnipotent et miséricordieux.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 178,
+                    "religion_id": 27,
+                    "year": 600,
+                    "type": "point",
+                    "coords": "[21.4, 39.8]",
+                    "population": "~10 000",
+                    "description": "Naissance de l'islam à La Mecque. Début des révélations à Mahomet."
+                },
+                {
+                    "id": 179,
+                    "religion_id": 27,
+                    "year": 700,
+                    "type": "polygon",
+                    "coords": "[[20.0, 35.0], [20.0, 50.0], [30.0, 50.0], [30.0, 35.0]]",
+                    "population": "~1 million",
+                    "description": "Conquête de La Mecque et expansion en Arabie. Début du califat."
+                },
+                {
+                    "id": 180,
+                    "religion_id": 27,
+                    "year": 800,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 30.0], [40.0, 30.0], [40.0, -20.0]], [[20.0, 30.0], [20.0, 70.0], [40.0, 70.0], [40.0, 30.0]]]",
+                    "population": "~10 millions",
+                    "description": "Expansion rapide sous les califats omeyyade et abbasside. Conquête de l'Afrique du Nord et du Moyen-Orient."
+                },
+                {
+                    "id": 181,
+                    "religion_id": 27,
+                    "year": 900,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 30.0], [40.0, 30.0], [40.0, -20.0]], [[20.0, 30.0], [20.0, 70.0], [40.0, 70.0], [40.0, 30.0]]]",
+                    "population": "~15 millions",
+                    "description": "Âge d'or de l'islam sous les Abbassides. Développement des sciences et de la culture."
+                },
+                {
+                    "id": 182,
+                    "religion_id": 27,
+                    "year": 1000,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 30.0], [40.0, 30.0], [40.0, -20.0]], [[20.0, 30.0], [20.0, 80.0], [40.0, 80.0], [40.0, 30.0]], [[20.0, 60.0], [20.0, 80.0], [40.0, 80.0], [40.0, 60.0]]]",
+                    "population": "~20 millions",
+                    "description": "Expansion en Asie centrale et en Inde du Nord (Sultanat de Delhi)."
+                },
+                {
+                    "id": 183,
+                    "religion_id": 27,
+                    "year": 1100,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 30.0], [40.0, 30.0], [40.0, -20.0]], [[20.0, 30.0], [20.0, 80.0], [40.0, 80.0], [40.0, 30.0]]]",
+                    "population": "~25 millions",
+                    "description": "Croades et résistance musulmane. Développement des madrasas."
+                },
+                {
+                    "id": 184,
+                    "religion_id": 27,
+                    "year": 1200,
+                    "type": "multi-polygon",
+                    "coords": "[[[-10.0, -20.0], [-10.0, 30.0], [40.0, 30.0], [40.0, -20.0]], [[20.0, 30.0], [20.0, 80.0], [40.0, 80.0], [40.0, 30.0]]]",
+                    "population": "~50 millions",
+                    "description": "Expansion en Afrique subsaharienne et en Inde. Chute des croisés."
+                },
+                {
+                    "id": 185,
+                    "religion_id": 27,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[-10.0, 60.0], [-10.0, 80.0], [40.0, 80.0], [40.0, 60.0]], [[-10.0, -20.0], [-10.0, 30.0], [40.0, 30.0], [40.0, -20.0]]]",
+                    "population": "~200 millions",
+                    "description": "Empire ottoman à son apogée. Expansion en Asie du Sud (Moghol)."
+                },
+                {
+                    "id": 186,
+                    "religion_id": 27,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[-20.0, -20.0], [-20.0, 60.0], [60.0, 60.0], [60.0, -20.0]], [[-20.0, 60.0], [-20.0, 120.0], [60.0, 120.0], [60.0, 60.0]]]",
+                    "population": "~1,8 milliard",
+                    "description": "L'islam est la deuxième religion la plus pratiquée au monde."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Islam sunnite",
+            "startYear": 600,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Islam",
+            "sousCategorie": "Sunnisme",
+            "color": "#27AE60",
+            "judgment": "central",
+            "afterlife": "Jannah ou Jahannam",
+            "region": "Arabie",
+            "status": "pratiquée",
+            "description": "Branche majoritaire de l'islam. Croit en Allah comme Dieu créateur et suit les enseignements du Coran.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 187,
+                    "religion_id": 28,
+                    "year": 600,
+                    "type": "point",
+                    "coords": "[24.0, 39.0]",
+                    "population": "~10 000",
+                    "description": "Origines de l'islam sunnite en Arabie avec le prophète Mahomet. Révélation du Coran et fondation de la première communauté musulmane à Médine."
+                },
+                {
+                    "id": 188,
+                    "religion_id": 28,
+                    "year": 700,
+                    "type": "polygon",
+                    "coords": "[[20.0, 30.0], [20.0, 60.0], [40.0, 60.0], [40.0, 30.0]]",
+                    "population": "~10 millions",
+                    "description": "Expansion sous les califats omeyyade et abbasside. Conquête du Moyen-Orient, de l'Afrique du Nord et de l'Espagne."
+                },
+                {
+                    "id": 189,
+                    "religion_id": 28,
+                    "year": 1000,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 60.0], [50.0, 60.0], [50.0, -20.0]], [[20.0, 60.0], [20.0, 120.0], [40.0, 120.0], [40.0, 60.0]]]",
+                    "population": "~50 millions",
+                    "description": "Âge d'or sous les empires seldjoukide et ayyoubide. Diffusion en Asie centrale, en Inde et en Afrique subsaharienne."
+                },
+                {
+                    "id": 190,
+                    "religion_id": 28,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 70.0], [50.0, 70.0], [50.0, -20.0]], [[-20.0, -20.0], [-20.0, 50.0], [20.0, 50.0], [20.0, -20.0]]]",
+                    "population": "~200 millions",
+                    "description": "Expansion sous les empires ottoman, moghol et songhaï. Diffusion en Afrique de l'Ouest, en Asie du Sud-Est et dans les Balkans."
+                },
+                {
+                    "id": 191,
+                    "religion_id": 28,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[20.0, -20.0], [20.0, 70.0], [70.0, 70.0], [70.0, -20.0]], [[-40.0, -80.0], [-40.0, 60.0], [40.0, 60.0], [40.0, -80.0]]]",
+                    "population": "~1,5 milliard",
+                    "description": "Présence mondiale avec des communautés en Afrique, Moyen-Orient, Asie, Europe et Amérique. Influence culturelle et politique majeure."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Islam chiite",
+            "startYear": 680,
+            "endYear": 2000,
+            "superCategorie": "Religions abrahamiques",
+            "categorie": "Islam",
+            "sousCategorie": "Chiisme",
+            "color": "#16A085",
+            "judgment": "central",
+            "afterlife": "Jannah ou Jahannam",
+            "region": "Perse (Iran)",
+            "status": "pratiquée",
+            "description": "Branche minoritaire de l'islam. Croit en Allah comme Dieu créateur et met l'accent sur l'imamat.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 192,
+                    "religion_id": 29,
+                    "year": 680,
+                    "type": "point",
+                    "coords": "[32.0, 44.0]",
+                    "population": "~5 000",
+                    "description": "Origines de l'islam chiite en Irak (Kerbala) avec l'imamat d'Ali. Développement des doctrines spécifiques (imamat, occultation)."
+                },
+                {
+                    "id": 193,
+                    "religion_id": 29,
+                    "year": 900,
+                    "type": "polygon",
+                    "coords": "[[25.0, 40.0], [25.0, 60.0], [40.0, 60.0], [40.0, 40.0]]",
+                    "population": "~5 millions",
+                    "description": "Expansion sous les dynasties fatimide et bouyide. Diffusion en Égypte, en Syrie et en Perse."
+                },
+                {
+                    "id": 194,
+                    "religion_id": 29,
+                    "year": 1200,
+                    "type": "polygon",
+                    "coords": "[[25.0, 40.0], [25.0, 70.0], [45.0, 70.0], [45.0, 40.0]]",
+                    "population": "~10 millions",
+                    "description": "Âge d'or sous les empires safavide et moghol. Développement des écoles théologiques (usulisme, akhbariyya)."
+                },
+                {
+                    "id": 195,
+                    "religion_id": 29,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[20.0, 40.0], [20.0, 70.0], [50.0, 70.0], [50.0, 40.0]]",
+                    "population": "~20 millions",
+                    "description": "Expansion en Iran, Irak, Inde et Levant. Influence sur la culture persane et indienne."
+                },
+                {
+                    "id": 196,
+                    "religion_id": 29,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[20.0, 40.0], [20.0, 70.0], [50.0, 70.0], [50.0, 40.0]]",
+                    "population": "~200 millions",
+                    "description": "Présence majeure en Iran, Irak, Azerbaïdjan, Bahreïn et diaspora. Rôle politique et religieux dans le monde musulman."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Religions traditionnelles africaines (Yoruba)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Ouest",
+            "color": "#C06C84",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Orun (Ciel)",
+            "region": "Afrique de l'Ouest (Nigeria, Bénin)",
+            "status": "pratiquée",
+            "description": "Tradition yoruba. Croit en un dieu créateur suprême Olodumare (ou Olorun), source de toute existence, et en des divinités secondaires (orishas) comme Shango ou Oshun.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 197,
+                    "religion_id": 30,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[5.0, 0.0], [5.0, 10.0], [15.0, 10.0], [15.0, 0.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions traditionnelles yoruba dans l'actuel Nigeria. Culte des orishas et du dieu créateur Olodumare."
+                },
+                {
+                    "id": 198,
+                    "religion_id": 30,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[5.0, 0.0], [5.0, 15.0], [15.0, 15.0], [15.0, 0.0]]",
+                    "population": "~1 million",
+                    "description": "Développement des royaumes yoruba (Ife, Oyo). Expansion des cultes et des traditions orales."
+                },
+                {
+                    "id": 199,
+                    "religion_id": 30,
+                    "year": 1500,
+                    "type": "multi-polygon",
+                    "coords": "[[[5.0, 0.0], [5.0, 15.0], [15.0, 15.0], [15.0, 0.0]], [[10.0, -50.0], [10.0, -30.0], [30.0, -30.0], [30.0, -50.0]]]",
+                    "population": "~5 millions",
+                    "description": "Diffusion vers les Amériques avec la traite transatlantique (ex. : candomblé au Brésil, santería à Cuba)."
+                },
+                {
+                    "id": 200,
+                    "religion_id": 30,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[5.0, -10.0], [5.0, 20.0], [15.0, 20.0], [15.0, -10.0]]",
+                    "population": "~10 millions",
+                    "description": "Persistance des traditions malgré la colonisation. Syncrétisme avec le christianisme."
+                },
+                {
+                    "id": 201,
+                    "religion_id": 30,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[5.0, -10.0], [5.0, 20.0], [15.0, 20.0], [15.0, -10.0]], [[10.0, -50.0], [10.0, -30.0], [30.0, -30.0], [30.0, -50.0]]]",
+                    "population": "~50 millions",
+                    "description": "Présence en Afrique de l'Ouest et dans les diasporas (Amériques, Europe). Renaissance des traditions et reconnaissance culturelle."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Religions traditionnelles africaines (Akan)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Ouest",
+            "color": "#A569BD",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Asamando",
+            "region": "Afrique de l'Ouest (Ghana, Côte d'Ivoire)",
+            "status": "pratiquée",
+            "description": "Tradition akan. Croit en un dieu créateur Nyame (ou Onyankopon), associé au ciel, et en des esprits ancestraux.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 202,
+                    "religion_id": 31,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[5.0, -5.0], [5.0, 5.0], [10.0, 5.0], [10.0, -5.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions traditionnelles akan au Ghana et en Côte d'Ivoire. Culte du dieu créateur Nyame et des esprits ancestraux."
+                },
+                {
+                    "id": 203,
+                    "religion_id": 31,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[5.0, -5.0], [5.0, 10.0], [10.0, 10.0], [10.0, -5.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des royaumes akan (Ashanti, Fanti). Rituels et festivals (ex. : Akwasidae)."
+                },
+                {
+                    "id": 204,
+                    "religion_id": 31,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[5.0, -10.0], [5.0, 15.0], [15.0, 15.0], [15.0, -10.0]]",
+                    "population": "~2 millions",
+                    "description": "Expansion et résistance à la colonisation. Maintien des traditions malgré l'influence chrétienne."
+                },
+                {
+                    "id": 205,
+                    "religion_id": 31,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[0.0, -10.0], [0.0, 15.0], [15.0, 15.0], [15.0, -10.0]]",
+                    "population": "~5 millions",
+                    "description": "Persistance des croyances dans les sociétés modernes. Intégration des éléments traditionnels dans la vie quotidienne."
+                },
+                {
+                    "id": 206,
+                    "religion_id": 31,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[0.0, -10.0], [0.0, 20.0], [20.0, 20.0], [20.0, -10.0]]",
+                    "population": "~10 millions",
+                    "description": "Reconnaissance des traditions comme patrimoine culturel. Festivals et rituels toujours pratiqués."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Religions traditionnelles africaines (Dogon)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Ouest",
+            "color": "#8B4513",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Amma",
+            "region": "Mali",
+            "status": "pratiquée",
+            "description": "Tradition dogon. Croit en un dieu créateur Amma, qui a créé l'univers à partir d'une graine de po. Mythologie complexe incluant le serpent Nommo.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 207,
+                    "religion_id": 32,
+                    "year": -10000,
+                    "type": "point",
+                    "coords": "[15.0, -5.0]",
+                    "population": "~10 000",
+                    "description": "Origines des religions traditionnelles dogon au Mali. Mythologie complexe centrée sur le dieu créateur Amma."
+                },
+                {
+                    "id": 208,
+                    "religion_id": 32,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[12.0, -8.0], [12.0, 0.0], [18.0, 0.0], [18.0, -8.0]]",
+                    "population": "~200 000",
+                    "description": "Développement des traditions orales et des rituels (ex. : masque Sigui). Connaissances astronomiques avancées."
+                },
+                {
+                    "id": 209,
+                    "religion_id": 32,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[12.0, -8.0], [12.0, 5.0], [18.0, 5.0], [18.0, -8.0]]",
+                    "population": "~500 000",
+                    "description": "Résistance à l'islamisation et à la colonisation. Maintien des pratiques traditionnelles."
+                },
+                {
+                    "id": 210,
+                    "religion_id": 32,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[10.0, -10.0], [10.0, 10.0], [20.0, 10.0], [20.0, -10.0]]",
+                    "population": "~1 million",
+                    "description": "Études anthropologiques et reconnaissance internationale. Tourisme culturel et préservation des sites sacrés."
+                },
+                {
+                    "id": 211,
+                    "religion_id": 32,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[10.0, -10.0], [10.0, 10.0], [20.0, 10.0], [20.0, -10.0]]",
+                    "population": "~1,5 million",
+                    "description": "Patrimoine mondial de l'UNESCO (falaise de Bandiagara). Transmission des traditions aux jeunes générations."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Religions traditionnelles africaines (Bakongo)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Centre",
+            "color": "#D2691E",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Nzambi",
+            "region": "Afrique centrale (RDC, Congo)",
+            "status": "pratiquée",
+            "description": "Tradition bakongo. Croit en un dieu créateur Nzambi a Mpungu, associé à la force vitale et à l'ordre cosmique.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 212,
+                    "religion_id": 33,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[0.0, 10.0], [0.0, 20.0], [-5.0, 20.0], [-5.0, 10.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions traditionnelles bakongo en Afrique centrale. Culte du dieu créateur Nzambi et des ancêtres."
+                },
+                {
+                    "id": 213,
+                    "religion_id": 33,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 10.0], [-5.0, 25.0], [5.0, 25.0], [5.0, 10.0]]",
+                    "population": "~500 000",
+                    "description": "Développement du royaume Kongo. Rituels et croyances centrées sur les esprits (nkisi)."
+                },
+                {
+                    "id": 214,
+                    "religion_id": 33,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 10.0], [-10.0, 30.0], [5.0, 30.0], [5.0, 10.0]]",
+                    "population": "~2 millions",
+                    "description": "Contact avec les Portugais et syncrétisme religieux. Persistance des traditions malgré le christianisme."
+                },
+                {
+                    "id": 215,
+                    "religion_id": 33,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[-15.0, 10.0], [-15.0, 30.0], [0.0, 30.0], [0.0, 10.0]]",
+                    "population": "~5 millions",
+                    "description": "Colonisation et diaspora (ex. : candomblé de congo au Brésil). Maintien des pratiques malgré l'esclavage."
+                },
+                {
+                    "id": 216,
+                    "religion_id": 33,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[-15.0, 10.0], [-15.0, 30.0], [0.0, 30.0], [0.0, 10.0]], [[-30.0, -60.0], [-30.0, -30.0], [-10.0, -30.0], [-10.0, -60.0]]]",
+                    "population": "~10 millions",
+                    "description": "Présence en Afrique centrale et dans les diasporas. Reconnaissance des traditions comme patrimoine culturel."
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Religions traditionnelles africaines (Bantu)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Centre",
+            "color": "#A0522D",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres",
+            "region": "Afrique centrale/Est",
+            "status": "pratiquée",
+            "description": "Traditions bantu (ex. : Luba, Lunda). Croit en un dieu créateur lointain (ex. : Leza chez les Shona), mais l'accent est mis sur les esprits ancestraux et les forces naturelles.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 217,
+                    "religion_id": 34,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 15.0], [-10.0, 30.0], [0.0, 30.0], [0.0, 15.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions traditionnelles bantu en Afrique centrale. Culte du dieu créateur Leza et des ancêtres."
+                },
+                {
+                    "id": 218,
+                    "religion_id": 34,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-15.0, 10.0], [-15.0, 35.0], [5.0, 35.0], [5.0, 10.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion des peuples bantu en Afrique australe et orientale. Diversification des croyances locales."
+                },
+                {
+                    "id": 219,
+                    "religion_id": 34,
+                    "year": 1000,
+                    "type": "polygon",
+                    "coords": "[[-20.0, 10.0], [-20.0, 40.0], [0.0, 40.0], [0.0, 10.0]]",
+                    "population": "~5 millions",
+                    "description": "Développement des royaumes bantu (ex. : Grand Zimbabwe). Rituels agraires et cultes des ancêtres."
+                },
+                {
+                    "id": 220,
+                    "religion_id": 34,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[-30.0, 10.0], [-30.0, 45.0], [0.0, 45.0], [0.0, 10.0]]",
+                    "population": "~10 millions",
+                    "description": "Contact avec les Européens et adaptations des traditions. Résistance culturelle à la colonisation."
+                },
+                {
+                    "id": 221,
+                    "religion_id": 34,
+                    "year": 2000,
+                    "type": "multi-polygon",
+                    "coords": "[[[-30.0, 10.0], [-30.0, 45.0], [0.0, 45.0], [0.0, 10.0]], [[-20.0, 20.0], [-20.0, 50.0], [10.0, 50.0], [10.0, 20.0]]]",
+                    "population": "~50 millions",
+                    "description": "Présence en Afrique australe, centrale et diasporas. Influence sur les mouvements de renaissance culturelle."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Religions traditionnelles africaines (Pygmées)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Centre",
+            "color": "#8B4513",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Komba",
+            "region": "Afrique centrale (Cameroun, Gabon)",
+            "status": "pratiquée",
+            "description": "Tradition pygmée (ex. : Baka, Mbuti). Pas de dieu créateur unique : croit en un esprit de la forêt Komba et en des entités naturelles, sans concept de création divine centralisé.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 222,
+                    "religion_id": 35,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 10.0], [-5.0, 20.0], [5.0, 20.0], [5.0, 10.0]]",
+                    "population": "~20 000",
+                    "description": "Origines des religions traditionnelles pygmées en Afrique centrale. Culte des esprits de la forêt (Komba) et des ancêtres."
+                },
+                {
+                    "id": 223,
+                    "religion_id": 35,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 10.0], [-10.0, 30.0], [0.0, 30.0], [0.0, 10.0]]",
+                    "population": "~100 000",
+                    "description": "Mode de vie nomade et croyances animistes. Rituels de chasse et de guérison."
+                },
+                {
+                    "id": 224,
+                    "religion_id": 35,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[-15.0, 10.0], [-15.0, 35.0], [5.0, 35.0], [5.0, 10.0]]",
+                    "population": "~200 000",
+                    "description": "Contact limité avec les sociétés agricoles. Maintien des traditions malgré les pressions extérieures."
+                },
+                {
+                    "id": 225,
+                    "religion_id": 35,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 5.0], [-10.0, 35.0], [10.0, 35.0], [10.0, 5.0]]",
+                    "population": "~300 000",
+                    "description": "Études ethnographiques et reconnaissance des droits territoriaux. Menaces liées à la déforestation."
+                },
+                {
+                    "id": 226,
+                    "religion_id": 35,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-15.0, 5.0], [-15.0, 40.0], [15.0, 40.0], [15.0, 5.0]]",
+                    "population": "~500 000",
+                    "description": "Lutte pour la préservation des forêts et des traditions. Mouvements de défense des droits autochtones."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Religions traditionnelles africaines (Kikuyu)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Est",
+            "color": "#8B4513",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Ngai",
+            "region": "Afrique de l'Est (Kenya)",
+            "status": "pratiquée",
+            "description": "Tradition kikuyu. Croit en un dieu créateur Ngai (ou Murungu), associé au ciel et à la pluie, et en des esprits ancestraux.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 227,
+                    "religion_id": 36,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[0.0, 30.0], [0.0, 40.0], [10.0, 40.0], [10.0, 30.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions traditionnelles kikuyu au Kenya. Culte du dieu créateur Ngai et des esprits ancestraux."
+                },
+                {
+                    "id": 228,
+                    "religion_id": 36,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-2.0, 30.0], [-2.0, 45.0], [10.0, 45.0], [10.0, 30.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des rituels agraires et des cérémonies d'initiation. Résistance à l'islam et au christianisme."
+                },
+                {
+                    "id": 229,
+                    "religion_id": 36,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 25.0], [-5.0, 50.0], [15.0, 50.0], [15.0, 25.0]]",
+                    "population": "~2 millions",
+                    "description": "Colonisation britannique et résistance (ex. : révolte des Mau Mau). Syncrétisme avec le christianisme."
+                },
+                {
+                    "id": 230,
+                    "religion_id": 36,
+                    "year": 1950,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 30.0], [-5.0, 45.0], [5.0, 45.0], [5.0, 30.0]]",
+                    "population": "~5 millions",
+                    "description": "Indépendance du Kenya et renaissance culturelle. Rôle des traditions dans la construction nationale."
+                },
+                {
+                    "id": 231,
+                    "religion_id": 36,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 25.0], [-10.0, 50.0], [10.0, 50.0], [10.0, 25.0]]",
+                    "population": "~10 millions",
+                    "description": "Reconnaissance des traditions comme patrimoine national. Tourisme culturel et préservation des sites sacrés (ex. : mont Kenya)."
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Religions traditionnelles africaines (Maasai)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Est",
+            "color": "#CD853F",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Enkai",
+            "region": "Afrique de l'Est (Kenya, Tanzanie)",
+            "status": "pratiquée",
+            "description": "Tradition Maasai. Croit en un dieu créateur Enkai (ou Ngai), qui a séparé le ciel et la terre et offert le bétail aux humains.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 232,
+                    "religion_id": 37,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 30.0], [-5.0, 40.0], [5.0, 40.0], [5.0, 30.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions traditionnelles maasaï en Afrique de l'Est. Culte du dieu créateur Enkai et des ancêtres."
+                },
+                {
+                    "id": 233,
+                    "religion_id": 37,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-5.0, 25.0], [-5.0, 45.0], [10.0, 45.0], [10.0, 25.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des rituels de passage (ex. : Eunoto). Société pastorale et croyances liées au bétail."
+                },
+                {
+                    "id": 234,
+                    "religion_id": 37,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 25.0], [-10.0, 45.0], [10.0, 45.0], [10.0, 25.0]]",
+                    "population": "~1 million",
+                    "description": "Résistance à la colonisation et maintien des traditions. Adaptation aux changements sociaux."
+                },
+                {
+                    "id": 235,
+                    "religion_id": 37,
+                    "year": 1950,
+                    "type": "polygon",
+                    "coords": "[[-8.0, 30.0], [-8.0, 40.0], [8.0, 40.0], [8.0, 30.0]]",
+                    "population": "~2 millions",
+                    "description": "Indépendance et modernisation. Tourisme culturel et préservation des pratiques traditionnelles."
+                },
+                {
+                    "id": 236,
+                    "religion_id": 37,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-10.0, 20.0], [-10.0, 50.0], [15.0, 50.0], [15.0, 20.0]]",
+                    "population": "~5 millions",
+                    "description": "Reconnaissance internationale des traditions maasaï. Projets de développement communautaire et écotourisme."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Religions traditionnelles africaines (San)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Sud",
+            "color": "#D2691E",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, ǀKaggen",
+            "region": "Afrique australe (Namibie, Botswana)",
+            "status": "pratiquée",
+            "description": "Tradition San (Bushmen). Pas de dieu créateur unique : croit en des esprits ancestraux et en une force vitale (n!ore) présente dans la nature. ǀKaggen est un dieu-trickster, mais pas un créateur au sens classique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 237,
+                    "religion_id": 38,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[-30.0, 15.0], [-30.0, 30.0], [-20.0, 30.0], [-20.0, 15.0]]",
+                    "population": "~20 000",
+                    "description": "Origines des religions traditionnelles san en Afrique australe. Croyances centrées sur le Temps du Rêve et les esprits ancestraux."
+                },
+                {
+                    "id": 238,
+                    "religion_id": 38,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-35.0, 10.0], [-35.0, 35.0], [-15.0, 35.0], [-15.0, 10.0]]",
+                    "population": "~100 000",
+                    "description": "Mode de vie nomade et chasse-cueillette. Art rupestre et rituels de guérison."
+                },
+                {
+                    "id": 239,
+                    "religion_id": 38,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[-30.0, 10.0], [-30.0, 35.0], [-10.0, 35.0], [-10.0, 10.0]]",
+                    "population": "~200 000",
+                    "description": "Contact avec les peuples bantu et les Européens. Maintien des traditions malgré les pressions."
+                },
+                {
+                    "id": 240,
+                    "religion_id": 38,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[-35.0, 10.0], [-35.0, 40.0], [-10.0, 40.0], [-10.0, 10.0]]",
+                    "population": "~300 000",
+                    "description": "Études anthropologiques et reconnaissance des droits territoriaux. Menaces liées à l'expansion agricole."
+                },
+                {
+                    "id": 241,
+                    "religion_id": 38,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-40.0, 10.0], [-40.0, 40.0], [-5.0, 40.0], [-5.0, 10.0]]",
+                    "population": "~500 000",
+                    "description": "Lutte pour la préservation des terres et des traditions. Mouvements de défense des droits des peuples autochtones."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Religions traditionnelles africaines (Zoulou)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions africaines",
+            "sousCategorie": "Sud",
+            "color": "#CD5C5C",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, uMvelinqangi",
+            "region": "Afrique du Sud",
+            "status": "pratiquée",
+            "description": "Tradition zouloue. Croit en un dieu créateur uMvelinqangi (\"Celui qui était au commencement\"), mais les rituels se concentrent davantage sur les ancêtres (amadlozi) que sur le dieu lui-même.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 242,
+                    "religion_id": 39,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[-30.0, 25.0], [-30.0, 35.0], [-20.0, 35.0], [-20.0, 25.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions traditionnelles zoulou en Afrique australe. Culte du dieu créateur uMvelinqangi et des ancêtres (amadlozi)."
+                },
+                {
+                    "id": 243,
+                    "religion_id": 39,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-35.0, 20.0], [-35.0, 40.0], [-20.0, 40.0], [-20.0, 20.0]]",
+                    "population": "~500 000",
+                    "description": "Développement du royaume zoulou sous Shaka. Rituels guerriers et cultes des ancêtres."
+                },
+                {
+                    "id": 244,
+                    "religion_id": 39,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[-40.0, 20.0], [-40.0, 40.0], [-15.0, 40.0], [-15.0, 20.0]]",
+                    "population": "~2 millions",
+                    "description": "Guerres contre les Britanniques et les Boers. Résistance culturelle et adaptation aux changements."
+                },
+                {
+                    "id": 245,
+                    "religion_id": 39,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[-35.0, 15.0], [-35.0, 45.0], [-15.0, 45.0], [-15.0, 15.0]]",
+                    "population": "~5 millions",
+                    "description": "Apartheid et renaissance culturelle. Rôle des traditions dans la résistance politique."
+                },
+                {
+                    "id": 246,
+                    "religion_id": 39,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-40.0, 15.0], [-40.0, 45.0], [-10.0, 45.0], [-10.0, 15.0]]",
+                    "population": "~10 millions",
+                    "description": "Post-apartheid et reconnaissance des traditions. Tourisme culturel et préservation des sites sacrés."
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Religions des Indiens d'Amérique (Plaines)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Plaines",
+            "color": "#5E8C61",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Chasse heureuse",
+            "region": "Grandes Plaines (États-Unis/Canada)",
+            "status": "pratiquée",
+            "description": "Traditions des nations des Plaines (ex. : Lakotas, Cheyennes). Croit en un Grand Esprit (Wakan Tanka) souvent considéré comme un principe créateur.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 247,
+                    "religion_id": 40,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[35.0, -110.0], [35.0, -90.0], [50.0, -90.0], [50.0, -110.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions des Indiens des Plaines. Culte du Grand Esprit (Wakan Tanka) et des esprits animaux."
+                },
+                {
+                    "id": 248,
+                    "religion_id": 40,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[30.0, -120.0], [30.0, -80.0], [55.0, -80.0], [55.0, -120.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des rituels comme la Danse du Soleil. Société nomade basée sur la chasse au bison."
+                },
+                {
+                    "id": 249,
+                    "religion_id": 40,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[30.0, -110.0], [30.0, -80.0], [60.0, -80.0], [60.0, -110.0]]",
+                    "population": "~1 million",
+                    "description": "Contact avec les Européens et résistance culturelle. Adaptation aux changements (ex. : introduction du cheval)."
+                },
+                {
+                    "id": 250,
+                    "religion_id": 40,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[25.0, -120.0], [25.0, -80.0], [60.0, -80.0], [60.0, -120.0]]",
+                    "population": "~500 000",
+                    "description": "Déplacement forcé et réserves. Persistance des traditions malgré les pressions."
+                },
+                {
+                    "id": 251,
+                    "religion_id": 40,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[25.0, -130.0], [25.0, -80.0], [60.0, -80.0], [60.0, -130.0]]",
+                    "population": "~2 millions",
+                    "description": "Renaissance culturelle et revendications territoriales. Festivals et rituels toujours pratiqués."
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Religions des Indiens d'Amérique (Nord-Ouest)",
+            "startYear": -8000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Nord-Ouest",
+            "color": "#4A9B8E",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres, Esprits de la forêt",
+            "region": "Nord-Ouest Pacifique (États-Unis/Canada)",
+            "status": "pratiquée",
+            "description": "Traditions des peuples comme les Tlingits, Haidas. Croit en des esprits animaux et ancestraux, mais pas en un dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 252,
+                    "religion_id": 41,
+                    "year": -8000,
+                    "type": "polygon",
+                    "coords": "[[45.0, -130.0], [45.0, -120.0], [55.0, -120.0], [55.0, -130.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions des Indiens du Nord-Ouest. Culte des esprits animaux et des ancêtres. Société basée sur la pêche et la chasse."
+                },
+                {
+                    "id": 253,
+                    "religion_id": 41,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[40.0, -140.0], [40.0, -120.0], [60.0, -120.0], [60.0, -140.0]]",
+                    "population": "~200 000",
+                    "description": "Développement des rituels comme le potlatch. Art et mythologie complexes (ex. : totems)."
+                },
+                {
+                    "id": 254,
+                    "religion_id": 41,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[40.0, -135.0], [40.0, -120.0], [60.0, -120.0], [60.0, -135.0]]",
+                    "population": "~300 000",
+                    "description": "Contact avec les Européens et épidémies. Résistance culturelle et adaptation."
+                },
+                {
+                    "id": 255,
+                    "religion_id": 41,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[35.0, -140.0], [35.0, -120.0], [60.0, -120.0], [60.0, -140.0]]",
+                    "population": "~100 000",
+                    "description": "Colonisation et déplacement forcé. Persistance des traditions malgré les interdictions."
+                },
+                {
+                    "id": 256,
+                    "religion_id": 41,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[35.0, -145.0], [35.0, -120.0], [65.0, -120.0], [65.0, -145.0]]",
+                    "population": "~500 000",
+                    "description": "Reconnaissance des droits autochtones et renaissance culturelle. Art contemporain et festivals traditionnels."
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Religions des Indiens d'Amérique (Sud-Ouest)",
+            "startYear": -2000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Sud-Ouest",
+            "color": "#7D9D9C",
+            "judgment": "none",
+            "afterlife": "Monde souterrain, Esprits des montagnes",
+            "region": "Sud-Ouest (États-Unis)",
+            "status": "pratiquée",
+            "description": "Traditions des Navajos (Diné), Hopis. Croit en des esprits (Diyin Dine'é) et en un principe créateur (ex. : Estsanatlehi chez les Navajos).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 257,
+                    "religion_id": 42,
+                    "year": -2000,
+                    "type": "polygon",
+                    "coords": "[[30.0, -120.0], [30.0, -100.0], [40.0, -100.0], [40.0, -120.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions des Indiens du Sud-Ouest. Culte des esprits (Diyin Dine'é) et rituels de guérison."
+                },
+                {
+                    "id": 258,
+                    "religion_id": 42,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[25.0, -115.0], [25.0, -95.0], [40.0, -95.0], [40.0, -115.0]]",
+                    "population": "~500 000",
+                    "description": "Développement des traditions navajo (Diné) et hopi. Agriculture et rituels complexes (ex. : danse de la pluie)."
+                },
+                {
+                    "id": 259,
+                    "religion_id": 42,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[25.0, -120.0], [25.0, -90.0], [45.0, -90.0], [45.0, -120.0]]",
+                    "population": "~300 000",
+                    "description": "Contact avec les Espagnols et résistance culturelle. Maintien des traditions malgré les missions."
+                },
+                {
+                    "id": 260,
+                    "religion_id": 42,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[20.0, -120.0], [20.0, -90.0], [50.0, -90.0], [50.0, -120.0]]",
+                    "population": "~200 000",
+                    "description": "Déplacement forcé et réserves. Persistance des langues et des rituels."
+                },
+                {
+                    "id": 261,
+                    "religion_id": 42,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[20.0, -125.0], [20.0, -90.0], [50.0, -90.0], [50.0, -125.0]]",
+                    "population": "~1 million",
+                    "description": "Renaissance culturelle et revendications territoriales. Influence sur l'art et la spiritualité moderne."
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Religions des Indiens d'Amérique (Est)",
+            "startYear": -3000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Est",
+            "color": "#6BA3A1",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Terre-Mère",
+            "region": "Est des États-Unis/Canada",
+            "status": "pratiquée",
+            "description": "Traditions des nations comme les Cherokees, Iroquois, Algonquins. Croit en un Grand Esprit (Gitche Manitou) souvent associé à un principe créateur.",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 262,
+                    "religion_id": 43,
+                    "year": -3000,
+                    "type": "polygon",
+                    "coords": "[[30.0, -90.0], [30.0, -70.0], [45.0, -70.0], [45.0, -90.0]]",
+                    "population": "~100 000",
+                    "description": "Origines des religions des Indiens de l'Est. Culte du Grand Esprit (Gitche Manitou) et des esprits de la nature."
+                },
+                {
+                    "id": 263,
+                    "religion_id": 43,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[30.0, -95.0], [30.0, -65.0], [50.0, -65.0], [50.0, -95.0]]",
+                    "population": "~1 million",
+                    "description": "Développement des confédérations iroquoises et algonquiennes. Agriculture et rituels saisonniers."
+                },
+                {
+                    "id": 264,
+                    "religion_id": 43,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[25.0, -100.0], [25.0, -60.0], [50.0, -60.0], [50.0, -100.0]]",
+                    "population": "~500 000",
+                    "description": "Contact avec les Européens et alliances commerciales. Résistance aux maladies et aux conflits."
+                },
+                {
+                    "id": 265,
+                    "religion_id": 43,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[20.0, -100.0], [20.0, -60.0], [55.0, -60.0], [55.0, -100.0]]",
+                    "population": "~200 000",
+                    "description": "Déplacement forcé et réserves. Persistance des langues et des traditions orales."
+                },
+                {
+                    "id": 266,
+                    "religion_id": 43,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[20.0, -105.0], [20.0, -60.0], [55.0, -60.0], [55.0, -105.0]]",
+                    "population": "~3 millions",
+                    "description": "Renaissance culturelle et revendications territoriales. Influence sur les mouvements écologistes et spirituels."
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Religions des Indiens d'Amérique (Alaska)",
+            "startYear": -10000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Alaska",
+            "color": "#558A88",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Esprits des animaux",
+            "region": "Alaska (États-Unis)",
+            "status": "pratiquée",
+            "description": "Traditions des peuples autochtones de l'Alaska (ex. : Inuits, Yupiks, Athabaskans). Croit en des esprits animaux et en un principe créateur (ex. : Raven chez les Tlingits).",
+            "dieuCreateur": "oui",
+            "areas": [
+                {
+                    "id": 267,
+                    "religion_id": 44,
+                    "year": -10000,
+                    "type": "polygon",
+                    "coords": "[[60.0, -170.0], [60.0, -130.0], [70.0, -130.0], [70.0, -170.0]]",
+                    "population": "~20 000",
+                    "description": "Origines des religions des Indiens d'Alaska. Culte des esprits animaux et des ancêtres. Adaptation au climat arctique."
+                },
+                {
+                    "id": 268,
+                    "religion_id": 44,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[55.0, -170.0], [55.0, -130.0], [75.0, -130.0], [75.0, -170.0]]",
+                    "population": "~100 000",
+                    "description": "Développement des traditions inuit et athabascan. Chasse, pêche et rituels chamaniques."
+                },
+                {
+                    "id": 269,
+                    "religion_id": 44,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[50.0, -180.0], [50.0, -120.0], [80.0, -120.0], [80.0, -180.0]]",
+                    "population": "~150 000",
+                    "description": "Contact avec les Russes et les Européens. Résistance culturelle et adaptation."
+                },
+                {
+                    "id": 270,
+                    "religion_id": 44,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[55.0, -180.0], [55.0, -100.0], [80.0, -100.0], [80.0, -180.0]]",
+                    "population": "~50 000",
+                    "description": "Colonisation et déplacement forcé. Persistance des traditions malgré les missions."
+                },
+                {
+                    "id": 271,
+                    "religion_id": 44,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[50.0, -180.0], [50.0, -100.0], [85.0, -100.0], [85.0, -180.0]]",
+                    "population": "~200 000",
+                    "description": "Reconnaissance des droits autochtones et renaissance culturelle. Rôle dans les débats environnementaux (ex. : pipeline Alaska)."
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Religions des Indiens d'Amérique (Californie)",
+            "startYear": -5000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions amérindiennes",
+            "sousCategorie": "Californie",
+            "color": "#6D9F97",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Esprits des ancêtres",
+            "region": "Californie (États-Unis)",
+            "status": "pratiquée",
+            "description": "Traditions des peuples comme les Chumash, Tongva. Croit en des esprits de la nature, mais pas en un dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 272,
+                    "religion_id": 45,
+                    "year": -5000,
+                    "type": "polygon",
+                    "coords": "[[30.0, -125.0], [30.0, -110.0], [40.0, -110.0], [40.0, -125.0]]",
+                    "population": "~30 000",
+                    "description": "Origines des religions des Indiens de Californie. Culte des esprits de la nature et des ancêtres. Société basée sur la chasse et la cueillette."
+                },
+                {
+                    "id": 273,
+                    "religion_id": 45,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[25.0, -130.0], [25.0, -110.0], [45.0, -110.0], [45.0, -130.0]]",
+                    "population": "~200 000",
+                    "description": "Développement des traditions chumash et tongva. Rituels saisonniers et art rupestre."
+                },
+                {
+                    "id": 274,
+                    "religion_id": 45,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[25.0, -130.0], [25.0, -105.0], [45.0, -105.0], [45.0, -130.0]]",
+                    "population": "~100 000",
+                    "description": "Contact avec les Espagnols et résistance culturelle. Maintien des langues malgré les missions."
+                },
+                {
+                    "id": 275,
+                    "religion_id": 45,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[20.0, -130.0], [20.0, -105.0], [50.0, -105.0], [50.0, -130.0]]",
+                    "population": "~50 000",
+                    "description": "Déplacement forcé et réserves. Persistance des traditions malgré les interdictions."
+                },
+                {
+                    "id": 276,
+                    "religion_id": 45,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[20.0, -135.0], [20.0, -100.0], [50.0, -100.0], [50.0, -135.0]]",
+                    "population": "~300 000",
+                    "description": "Renaissance culturelle et revendications territoriales. Influence sur les mouvements écologistes et les droits autochtones."
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Religions inuites",
+            "startYear": -5000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions arctiques",
+            "sousCategorie": "Inuits",
+            "color": "#A8D8EA",
+            "judgment": "none",
+            "afterlife": "Monde des esprits, Sedna (déesse de la mer)",
+            "region": "Arctique (Canada/Alaska/Greenland)",
+            "status": "pratiquée",
+            "description": "Traditions inuites. Croit en des esprits animaux et en Sedna, mais pas en un dieu créateur unique. Le monde est vu comme un équilibre entre les forces naturelles.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 277,
+                    "religion_id": 46,
+                    "year": -5000,
+                    "type": "polygon",
+                    "coords": "[[60.0, -170.0], [60.0, -50.0], [80.0, -50.0], [80.0, -170.0]]",
+                    "population": "~50 000",
+                    "description": "Origines des religions inuites dans l'Arctique. Culte des esprits animaux (ex. : Sedna) et chamanisme."
+                },
+                {
+                    "id": 278,
+                    "religion_id": 46,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[55.0, -170.0], [55.0, -30.0], [85.0, -30.0], [85.0, -170.0]]",
+                    "population": "~200 000",
+                    "description": "Développement des traditions inuites au Groenland, Canada et Alaska. Adaptation au climat polaire."
+                },
+                {
+                    "id": 279,
+                    "religion_id": 46,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[50.0, -180.0], [50.0, -20.0], [90.0, -20.0], [90.0, -180.0]]",
+                    "population": "~100 000",
+                    "description": "Contact avec les Européens et commerce des fourrures. Résistance culturelle et adaptation."
+                },
+                {
+                    "id": 280,
+                    "religion_id": 46,
+                    "year": 1800,
+                    "type": "polygon",
+                    "coords": "[[55.0, -180.0], [55.0, -40.0], [85.0, -40.0], [85.0, -180.0]]",
+                    "population": "~80 000",
+                    "description": "Colonisation et déplacement forcé. Persistance des traditions malgré les missions."
+                },
+                {
+                    "id": 281,
+                    "religion_id": 46,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[50.0, -180.0], [50.0, -30.0], [90.0, -30.0], [90.0, -180.0]]",
+                    "population": "~150 000",
+                    "description": "Reconnaissance des droits autochtones et renaissance culturelle. Rôle dans les débats environnementaux (ex. : réchauffement climatique)."
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Religions aborigènes d'Australie",
+            "startYear": -50000,
+            "endYear": 2000,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions océaniennes",
+            "sousCategorie": "Aborigènes d'Australie",
+            "color": "#E8A87C",
+            "judgment": "none",
+            "afterlife": "Temps du Rêve (Dreamtime), Esprits ancestraux",
+            "region": "Australie",
+            "status": "pratiquée",
+            "description": "Traditions aborigènes. Croit en le Temps du Rêve (Dreamtime), où les ancêtres ont créé le monde, mais pas en un dieu créateur personnel. Les esprits ancestraux sont des forces créatrices, mais pas un dieu unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 282,
+                    "religion_id": 47,
+                    "year": -50000,
+                    "type": "polygon",
+                    "coords": "[[-40.0, 110.0], [-40.0, 155.0], [-10.0, 155.0], [-10.0, 110.0]]",
+                    "population": "~100 000",
+                    "description": "Origines des religions aborigènes d'Australie. Culte des esprits ancestraux et du Temps du Rêve (Dreamtime)."
+                },
+                {
+                    "id": 283,
+                    "religion_id": 47,
+                    "year": 0,
+                    "type": "polygon",
+                    "coords": "[[-45.0, 110.0], [-45.0, 160.0], [-5.0, 160.0], [-5.0, 110.0]]",
+                    "population": "~1 million",
+                    "description": "Développement des traditions locales (ex. : peuple Yolngu). Art rupestre et rituels complexes."
+                },
+                {
+                    "id": 284,
+                    "religion_id": 47,
+                    "year": 1700,
+                    "type": "polygon",
+                    "coords": "[[-40.0, 110.0], [-40.0, 160.0], [-15.0, 160.0], [-15.0, 110.0]]",
+                    "population": "~500 000",
+                    "description": "Contact avec les Britanniques et résistance culturelle. Maintien des traditions malgré la colonisation."
+                },
+                {
+                    "id": 285,
+                    "religion_id": 47,
+                    "year": 1900,
+                    "type": "polygon",
+                    "coords": "[[-50.0, 110.0], [-50.0, 160.0], [-5.0, 160.0], [-5.0, 110.0]]",
+                    "population": "~300 000",
+                    "description": "Politiques d'assimilation et déplacement forcé. Persistance des langues et des rituels malgré les interdictions."
+                },
+                {
+                    "id": 286,
+                    "religion_id": 47,
+                    "year": 2000,
+                    "type": "polygon",
+                    "coords": "[[-45.0, 105.0], [-45.0, 165.0], [-5.0, 165.0], [-5.0, 105.0]]",
+                    "population": "~500 000",
+                    "description": "Reconnaissance des droits territoriaux et renaissance culturelle. Rôle dans les mouvements écologistes et la préservation des terres sacrées."
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Mayas",
+            "startYear": -2000,
+            "endYear": 1600,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions mésoaméricaines",
+            "sousCategorie": "Mayas",
+            "color": "#1ABC9C",
+            "judgment": "partial",
+            "afterlife": "Xibalba ou Ciel",
+            "region": "Amérique centrale",
+            "status": "disparue",
+            "description": "Civilisation mésoaméricaine connue pour ses pyramides, son calendrier complexe et ses croyances en des cycles temporels. Polythéisme sans dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 287,
+                    "religion_id": 48,
+                    "year": -2000,
+                    "type": "point",
+                    "coords": "[17.0, -90.0]",
+                    "population": "~100 000",
+                    "description": "Début de la civilisation maya en Mésoamérique."
+                },
+                {
+                    "id": 288,
+                    "religion_id": 48,
+                    "year": -1000,
+                    "type": "polygon",
+                    "coords": "[[15.0, -95.0], [15.0, -85.0], [20.0, -85.0], [20.0, -95.0]]",
+                    "population": "~500 000",
+                    "description": "Période préclassique maya. Construction des premières pyramides."
+                },
+                {
+                    "id": 289,
+                    "religion_id": 48,
+                    "year": 500,
+                    "type": "polygon",
+                    "coords": "[[14.0, -98.0], [14.0, -80.0], [22.0, -80.0], [22.0, -98.0]]",
+                    "population": "~2 millions",
+                    "description": "Période classique maya. Apogée des cités-États comme Tikal et Calakmul."
+                },
+                {
+                    "id": 290,
+                    "religion_id": 48,
+                    "year": 1600,
+                    "type": "polygon",
+                    "coords": "[[14.0, -98.0], [14.0, -80.0], [22.0, -80.0], [22.0, -98.0]]",
+                    "population": "~1 million",
+                    "description": "Déclin de la civilisation maya après l'arrivée des Espagnols."
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Aztèques",
+            "startYear": 1300,
+            "endYear": 1521,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions mésoaméricaines",
+            "sousCategorie": "Aztèques",
+            "color": "#1ABC9C",
+            "judgment": "partial",
+            "afterlife": "Mictlán, Tlalocan, Tonatiuh",
+            "region": "Mexique",
+            "status": "disparue",
+            "description": "Empire mésoaméricain. Croit en de multiples dieux (ex. : Huitzilopochtli, Quetzalcoatl) mais pas en un dieu créateur unique.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 291,
+                    "religion_id": 49,
+                    "year": 1300,
+                    "type": "point",
+                    "coords": "[19.4, -99.1]",
+                    "population": "~500 000",
+                    "description": "Fondation de Tenochtitlan et début de l'Empire aztèque."
+                },
+                {
+                    "id": 292,
+                    "religion_id": 49,
+                    "year": 1400,
+                    "type": "polygon",
+                    "coords": "[[18.0, -100.0], [18.0, -98.0], [20.0, -98.0], [20.0, -100.0]]",
+                    "population": "~1 million",
+                    "description": "Expansion de l'Empire aztèque sous Itzcoatl."
+                },
+                {
+                    "id": 293,
+                    "religion_id": 49,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[17.0, -102.0], [17.0, -95.0], [21.0, -95.0], [21.0, -102.0]]",
+                    "population": "~5-6 millions",
+                    "description": "Apogée de l'Empire aztèque sous Moctezuma II. Conquête par les Espagnols en 1521."
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Incas",
+            "startYear": 1200,
+            "endYear": 1572,
+            "superCategorie": "Religions autochtones",
+            "categorie": "Religions sud-américaines",
+            "sousCategorie": "Incas",
+            "color": "#1ABC9C",
+            "judgment": "none",
+            "afterlife": "Monde des ancêtres",
+            "region": "Pérou",
+            "status": "disparue",
+            "description": "Empire andin. Croit en de multiples dieux (ex. : Inti, Viracocha) mais pas en un dieu créateur unique. Viracocha est parfois associé à la création, mais sans dogme centralisé.",
+            "dieuCreateur": "non",
+            "areas": [
+                {
+                    "id": 294,
+                    "religion_id": 50,
+                    "year": 1200,
+                    "type": "polygon",
+                    "coords": "[[-15.0, -75.0], [-15.0, -70.0], [-10.0, -70.0], [-10.0, -75.0]]",
+                    "population": "~1 million",
+                    "description": "Fondation de l'Empire inca sous Manco Cápac."
+                },
+                {
+                    "id": 295,
+                    "religion_id": 50,
+                    "year": 1500,
+                    "type": "polygon",
+                    "coords": "[[-20.0, -80.0], [-20.0, -65.0], [-5.0, -65.0], [-5.0, -80.0]]",
+                    "population": "~10 millions",
+                    "description": "Apogée de l'Empire inca sous Pachacuti. Conquête par les Espagnols en 1572."
+                }
+            ]
+        }
+    ]
+}
