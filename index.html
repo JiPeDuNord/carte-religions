@@ -331,6 +331,7 @@
 
             // Ajouter les zones pour chaque religion à l'année spécifiée
             religions.forEach(religion => {
+		console.log(religion.name);
                 const areaData = getAreaData(religion, year);
                 if (!areaData) return;
 
